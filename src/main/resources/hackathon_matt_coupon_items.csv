@@ -1,0 +1,423 @@
+rank,TAR_COU_OFR_ID,dib_cust_id,coupon_num,base_upc_num,Item_Description,item_size,image_url,prod_rank
+1,303394,1.1115014E14,800000025246,0003700086790,Gain Fling Original Detergent,59 Oz,https://www.kroger.com/product/images/011040401/medium/front/0003700086790,1
+1,303394,1.1115014E14,800000025246,0003700088989,Downy Unstopables Sweet Dreams Scent Beads,9.7 Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700088989,2
+1,303394,1.1115014E14,800000025246,0003700050961,Tide Pods Mystic Forest Detergent,27 Oz,https://www.kroger.com/product/images/011040401/medium/front/0003700050961,3
+1,303394,1.1115014E14,800000025246,0003700050962,Tide Pods Ocean Mist Detergent,27 Oz,https://www.kroger.com/product/images/011040401/medium/front/0003700050962,4
+1,303394,1.1115014E14,800000025246,0003700050963,Tide Spring Meadow Pods,31 Oz,https://www.kroger.com/product/images/011040401/medium/front/0003700050963,5
+1,303394,1.1115014E14,800000025246,0003700050964,Tide Ocean Mist Pods,31 Oz,https://www.kroger.com/product/images/011040401/medium/front/0003700050964,6
+1,303394,1.1115014E14,800000025246,0003700050965,Tide Alpine Breeze Pods,31 Oz,https://www.kroger.com/product/images/011040401/medium/front/0003700050965,7
+1,303394,1.1115014E14,800000025246,0003700050968,Tide Mystic Forest Pods,35 Oz,https://www.kroger.com/product/images/011040401/medium/front/0003700050968,8
+1,303394,1.1115014E14,800000025246,0003700050975,Tide Pods Spring Meadow 59 Oz,59 Oz,https://www.kroger.com/product/images/011040401/medium/front/0003700050975,9
+1,303394,1.1115014E14,800000025246,0003700050976,Tide Pods Ocean Mist Detergent,59 Oz,https://www.kroger.com/product/images/011040401/medium/front/0003700050976,10
+2,301250,1.1115014E14,800000015057,0003700047019,Downy Liquid Scoop Sun Blossom Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700047019,1
+2,301250,1.1115014E14,800000015057,0003700035762,Downy April Fresh Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700035762,2
+2,301250,1.1115014E14,800000015057,0003700048119,Downy Simple Pleasures Sage Jasmine Fabric Softener,41 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700048119,3
+2,301250,1.1115014E14,800000015057,0003700085522,Gain Fireworks Original Scent Booster,9.7 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700085522,4
+2,301250,1.1115014E14,800000015057,0003700086744,Downy Unstopables In-Wash Scent Booster,9.7 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700086744,5
+2,301250,1.1115014E14,800000015057,0003700086740,Downy Lfe Infusions Cashmere Glow,41 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700086740,6
+2,301250,1.1115014E14,800000015057,0003700039686,Downy Free & Sensitive Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700039686,7
+2,301250,1.1115014E14,800000015057,0003700035830,Downy Mountain Spring Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700035830,8
+2,301250,1.1115014E14,800000015057,0003700039300,Downy Clean Breeze Liquid Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700039300,9
+2,301250,1.1115014E14,800000015057,0003700035890,Downy April Fresh Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700035890,10
+3,303395,1.1115014E14,800000025247,0003700035762,Downy April Fresh Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700035762,1
+3,303395,1.1115014E14,800000025247,0003700082361,Bounce Fresh Linen Dryer Sheets,105 Count,https://www.kroger.com/product/images/011053003/medium/front/0003700082361,2
+3,303395,1.1115014E14,800000025247,0003700047022,Ultra Downy Sun Blossom Liquid,103 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700047022,3
+3,303395,1.1115014E14,800000025247,0003700082366,Bounce Free & Sensitive Dryer Sheets,105 Count,https://www.kroger.com/product/images/011053003/medium/front/0003700082366,4
+3,303395,1.1115014E14,800000025247,0003700024861,Ultra Downy Fabric Softener Free & Sensitive,103 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700024861,5
+3,303395,1.1115014E14,800000025247,0003700082386,Downy April Fresh Dryer Sheets,105 Count,https://www.kroger.com/product/images/011053003/medium/front/0003700082386,6
+3,303395,1.1115014E14,800000025247,0003700035890,Downy April Fresh Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700035890,7
+3,303395,1.1115014E14,800000025247,0003700047019,Downy Liquid Scoop Sun Blossom Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700047019,8
+3,303395,1.1115014E14,800000025247,0003700035830,Downy Mountain Spring Fabric Softener,51 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700035830,9
+3,303395,1.1115014E14,800000025247,0003700083508,Downy Liquid Infusions Orchid Allure Fabric Softener,41 Fl Oz,https://www.kroger.com/product/images/011053002/medium/front/0003700083508,10
+4,300142,1.1115014E14,800000010148,0002900001613,Planters Deluxe Whole Cashews,8.5 Oz,https://www.kroger.com/product/images/600783239/medium/front/0002900001613,1
+4,300142,1.1115014E14,800000010148,0002900001654,Planters Creamy Peanut Butter,16.3 Oz,https://www.kroger.com/product/images/010762230/medium/front/0002900001654,2
+4,300142,1.1115014E14,800000010148,0002900001628,Planter's Brittle Nut Medley,10.25 Oz,https://www.kroger.com/product/images/600783262/medium/front/0002900001628,3
+4,300142,1.1115014E14,800000010148,0002900001620,Planters Deluxe Mixed Nuts,8.75 Oz,https://www.kroger.com/product/images/600783262/medium/front/0002900001620,4
+4,300142,1.1115014E14,800000010148,0002900001608,Planters Lightly Salted Cashews Halves & Pieces,8 Oz,https://www.kroger.com/product/images/600783239/medium/front/0002900001608,5
+4,300142,1.1115014E14,800000010148,0002900007345,Planters Dry Honey Roasted Peanuts,16 Oz,https://www.kroger.com/product/images/600783267/medium/front/0002900007345,6
+4,300142,1.1115014E14,800000010148,0002900001609,Planters Cashews Halves & Pieces,14 Oz,https://www.kroger.com/product/images/600783237/medium/front/0002900001609,7
+4,300142,1.1115014E14,800000010148,0002900001657,Planters Creamy Peanut Butter,28 Oz,https://www.kroger.com/product/images/010762230/medium/front/0002900001657,8
+4,300142,1.1115014E14,800000010148,0002900001655,Planters Crunchy Peanut Butter,16.3 Oz,https://www.kroger.com/product/images/010762230/medium/front/0002900001655,9
+4,300142,1.1115014E14,800000010148,0002900001257,Planters Honey Roasted Peanuts,6 Oz,https://www.kroger.com/product/images/600783267/medium/front/0002900001257,10
+5,303369,1.1115014E14,800000025165,0003700088975,Crest Be Dynamic Lime Spearmint Zest Toothpaste,4.5 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700088975,1
+5,303369,1.1115014E14,800000025165,0003700032025,Crest Baking Soda and Peroxide Whitening Toothpaste,8.2 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700032025,2
+5,303369,1.1115014E14,800000025165,0003700089291,Crest 3D White Arctic Fresh Twin Pack,2 Count/5.5 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700089291,3
+5,303369,1.1115014E14,800000025165,0003700003153,Crest Complete Whitening + Scope Toothpaste,6.2 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700003153,4
+5,303369,1.1115014E14,800000025165,0003700000392,Crest Tartar Protection Tooth Paste,8.2 OZ,https://www.kroger.com/product/images/031716014/medium/front/0003700000392,5
+5,303369,1.1115014E14,800000025165,0003700000391,Crest Tartar Protection Toothpaste,6.4 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700000391,6
+5,303369,1.1115014E14,800000025165,0003700049629,Crest Complete Scope Toothpaste,4 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700049629,7
+5,303369,1.1115014E14,800000025165,0003700049630,Crest Complete Scope Toothpaste,5.8 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700049630,8
+5,303369,1.1115014E14,800000025165,0003700000338,Crest Neat Squeeze for Kids Toothpaste,6 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700000338,9
+5,303369,1.1115014E14,800000025165,0003700000322,Crest Cavity Protection Toothpaste,4.6 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700000322,10
+6,303400,1.1115014E14,800000025298,0003700084470,Cascade Platinum Lemon Burst Dishwasher Detergent Pacs,43 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700084470,1
+6,303400,1.1115014E14,800000025298,0003700019002,Cascade Complete Fresh Dishwasher Pacs,16 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700019002,2
+6,303400,1.1115014E14,800000025298,0003700031683,Cascade Lemon Automatic Dishwasher Gel,155 OZ,https://www.kroger.com/product/images/011037717/medium/front/0003700031683,3
+6,303400,1.1115014E14,800000025298,0003700043121,Cascade Citrus Breeze Dishwasher Detergent Action Pacs,20 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700043121,4
+6,303400,1.1115014E14,800000025298,0003700084468,Cascade Platinum Action Pacs Lemon Burst Dishwasher Detergent,14 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700084468,5
+6,303400,1.1115014E14,800000025298,0003700018629,Cascade Action Pacs Fresh Scent,85 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700018629,6
+6,303400,1.1115014E14,800000025298,0003700084469,Cascade Platinum Action Pac Lemon Burst,23 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700084469,7
+6,303400,1.1115014E14,800000025298,0003700017523,Cascade Lemon Gel Dishwasher Detergent,75 Oz,https://www.kroger.com/product/images/011037717/medium/front/0003700017523,8
+6,303400,1.1115014E14,800000025298,0003700011544,Cascade Fresh Rapids with Bleach Dishwashing Detergent,75 Oz,https://www.kroger.com/product/images/011037717/medium/front/0003700011544,9
+6,303400,1.1115014E14,800000025298,0003700014393,Cascade Action Pacs Citrus Breeze,60 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700014393,10
+7,300199,1.1115014E14,800000022487,0074236500435,Horizon Organic Lowfat Chocolate Milk,8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236500435,1
+7,300199,1.1115014E14,800000022487,0074236520865,Horizon Organic Strawberry Milk,8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236520865,2
+7,300199,1.1115014E14,800000022487,0074236520875,Horizon Organic Reduced Fat Strawberry Milk,3 Boxes/8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236520875,3
+7,300199,1.1115014E14,800000022487,0074236520885,Horizon Organic Chocolate Milk,8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236520885,4
+7,300199,1.1115014E14,800000022487,0074236500421,Horizon Organic Reduced Fat Strawberry Milk,6 Cartons/8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236500421,5
+7,300199,1.1115014E14,800000022487,0074236500420,Horizon Organic 1% Low Fat Milk,6 Boxes/8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236500420,6
+7,300199,1.1115014E14,800000022487,0074236500417,Horizon Organic Vanilla Milk,6 Boxes/8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236500417,7
+7,300199,1.1115014E14,800000022487,0074236500416,Horizon Organic Chocolate Milk,6/8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236500416,8
+7,300199,1.1115014E14,800000022487,0074236500318,Horizon Organic Low Fat Vanilla Milk,12 Cartons/8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236500318,9
+7,300199,1.1115014E14,800000022487,0074236500270,Horizon Organic Single Serve Chocolate Milk,12 Cartons/8 Fl Oz,https://www.kroger.com/product/images/176638337/medium/front/0074236500270,10
+8,305708,1.1115014E14,800000010209,0001111090707,Kroger Reduced Fat Cinnamon Rolls,12.4 Oz,https://www.kroger.com/product/images/020661447/medium/front/0001111090707,1
+8,305708,1.1115014E14,800000010209,0001111089053,Kroger Flakey Jumbo Buttermilk Biscuits,16 Oz,https://www.kroger.com/product/images/020661445/medium/front/0001111089053,2
+8,305708,1.1115014E14,800000010209,0001111090706,Kroger Cream Cheese Cinnamon Rolls,12.4 Oz,https://www.kroger.com/product/images/020661447/medium/front/0001111090706,3
+8,305708,1.1115014E14,800000010209,0001111082681,Kroger Jumbo Flakey Biscuits,16 Oz,https://www.kroger.com/product/images/020661445/medium/front/0001111082681,4
+8,305708,1.1115014E14,800000010209,0001111082680,Kroger Jumbo Flaky Homestyle Biscuits,16 Oz,https://www.kroger.com/product/images/020661445/medium/front/0001111082680,5
+8,305708,1.1115014E14,800000010209,0001111082679,Kroger Butter Crescent Rolls,8 Oz,https://www.kroger.com/product/images/020661453/medium/front/0001111082679,6
+8,305708,1.1115014E14,800000010209,0001111081693,Kroger Jumbo Flaky Honey Butter Biscuits,16 Oz,https://www.kroger.com/product/images/020661445/medium/front/0001111081693,7
+8,305708,1.1115014E14,800000010209,0001111089034,Kroger Cinnamon Rolls,12.4 Oz,https://www.kroger.com/product/images/020661447/medium/front/0001111089034,8
+8,305708,1.1115014E14,800000010209,0001111089040,Kroger Crescent Rolls,8 Oz,https://www.kroger.com/product/images/020661453/medium/front/0001111089040,9
+8,305708,1.1115014E14,800000010209,0001111089049,Kroger Jumbo Butter Biscuits,16 Oz,https://www.kroger.com/product/images/020661445/medium/front/0001111089049,10
+9,302752,1.1115014E14,800000012804,0007187154462,Oscar Mayer Turkey Franks,10 Count/1.6 Oz,https://www.kroger.com/product/images/715757503/medium/front/0007187154462,1
+9,302752,1.1115014E14,800000012804,0004470000053,Oscar Mayer Cheese Dogs,16 Oz,https://www.kroger.com/product/images/715757504/medium/front/0004470000053,2
+9,302752,1.1115014E14,800000012804,0004470000063,Oscar Mayer Classic Wieners,16 Oz,https://www.kroger.com/product/images/715757502/medium/front/0004470000063,3
+9,302752,1.1115014E14,800000012804,0004470000098,Oscar Mayer Extra Lean Franks,14 Oz,https://www.kroger.com/product/images/715757504/medium/front/0004470000098,4
+9,302752,1.1115014E14,800000012804,0004470000210,Oscar Mayer Jumbo Wieners,16 Oz,https://www.kroger.com/product/images/715757502/medium/front/0004470000210,5
+9,302752,1.1115014E14,800000012804,0004470000744,Oscar Mayer Selects Hardwood Smoked Turkey Franks,16 Oz,https://www.kroger.com/product/images/715757503/medium/front/0004470000744,6
+9,302752,1.1115014E14,800000012804,0004470000783,Oscar Mayer Smokies Smoked Sausage,14 Oz,https://www.kroger.com/product/images/715757502/medium/front/0004470000783,7
+9,302752,1.1115014E14,800000012804,0004470006376,Oscar Mayer Selects Bun Length Angus Beef Franks,14 Oz,https://www.kroger.com/product/images/715757501/medium/front/0004470006376,8
+9,302752,1.1115014E14,800000012804,0004470007337,Oscar Mayer Jumbo Beef Franks,15 Oz,https://www.kroger.com/product/images/715757501/medium/front/0004470007337,9
+9,302752,1.1115014E14,800000012804,0004470007505,Oscar Mayer Beef Franks,15 Oz,https://www.kroger.com/product/images/715757501/medium/front/0004470007505,10
+10,303229,1.1115014E14,800000023381,0001111081088,Kroger Dijon Mustard,12 Oz,https://www.kroger.com/product/images/010880209/medium/front/0001111081088,1
+10,303229,1.1115014E14,800000023381,0001111089232,Kroger Tomato Ketchup,64 Oz,https://www.kroger.com/product/images/010881120/medium/front/0001111089232,2
+10,303229,1.1115014E14,800000023381,0001111084413,Kroger Spicy Brown Mustard,12 Oz,https://www.kroger.com/product/images/010880209/medium/front/0001111084413,3
+10,303229,1.1115014E14,800000023381,0001111084415,Kroger Horseradish Mustard,12 Oz,https://www.kroger.com/product/images/010880209/medium/front/0001111084415,4
+10,303229,1.1115014E14,800000023381,0001111081678,Fred Meyer Tomato Ketchup Squeeze Bottle,20 Oz,https://www.kroger.com/product/images/010881120/medium/front/0001111081678,5
+10,303229,1.1115014E14,800000023381,0001111081439,Kroger Tomato Ketchup,20 Oz,https://www.kroger.com/product/images/010881120/medium/front/0001111081439,6
+10,303229,1.1115014E14,800000023381,0001111081276,Fred Meyer Yellow Mustard,14 Oz,https://www.kroger.com/product/images/010880208/medium/front/0001111081276,7
+10,303229,1.1115014E14,800000023381,0001111081275,Fred Meyer Mustard,8 Oz,https://www.kroger.com/product/images/010880208/medium/front/0001111081275,8
+10,303229,1.1115014E14,800000023381,0001111084424,Kroger Honey Mustard,12 Oz,https://www.kroger.com/product/images/010880209/medium/front/0001111084424,9
+10,303229,1.1115014E14,800000023381,0001111084426,Fred Meyer Tomato Ketchup,24 Oz,https://www.kroger.com/product/images/010881120/medium/front/0001111084426,10
+11,303386,1.1115014E14,800000025210,0003700045541,Febreze Noticeables Meadows and Rain Refill,.879 Fl Oz,https://www.kroger.com/product/images/011084015/medium/front/0003700045541,1
+11,303386,1.1115014E14,800000025210,0003700045540,Febreze Noticeables Linen & Sky Refills,.879 Fl Oz,https://www.kroger.com/product/images/011084015/medium/front/0003700045540,2
+11,303386,1.1115014E14,800000025210,0003700045535,Febreze Air Effects Meadows and Rain Room Spray,9.7 Oz,https://www.kroger.com/product/images/011084014/medium/front/0003700045535,3
+11,303386,1.1115014E14,800000025210,0003700045009,Febreze Linen and Sky Set and Refresh Refill,.36 Fl Oz,https://www.kroger.com/product/images/011084021/medium/front/0003700045009,4
+11,303386,1.1115014E14,800000025210,0003700045536,Febreze Air Effects Spring and Renewal Room Spray,9.7 Oz,https://www.kroger.com/product/images/011084014/medium/front/0003700045536,5
+11,303386,1.1115014E14,800000025210,0003700046346,Febreze Noticeables Spring & Renewal Refills,1.758 Fl Oz,https://www.kroger.com/product/images/011084015/medium/front/0003700046346,6
+11,303386,1.1115014E14,800000025210,0003700046300,Febreze Noticeables Scented Oil Refill,1.758 Fl Oz,https://www.kroger.com/product/images/011084015/medium/front/0003700046300,7
+11,303386,1.1115014E14,800000025210,0003700046299,Febreze Noticeables Linen & Sky Scented Oil Refill,1.758 Fl Oz,https://www.kroger.com/product/images/011084015/medium/front/0003700046299,8
+11,303386,1.1115014E14,800000025210,0003700029214,Febreze Hawaiian Aloha Set & Fresh,.18 Fl Oz,https://www.kroger.com/product/images/011084021/medium/front/0003700029214,9
+11,303386,1.1115014E14,800000025210,0003700029215,Febreze Linen & Sky Set & Refresh,.18 Fl Oz,https://www.kroger.com/product/images/011084021/medium/front/0003700029215,10
+12,295254,1.1115014E14,800000018118,0007680800464,Barilla Collezione Spaghetti Alla Chitarra,16 Oz,https://www.kroger.com/product/images/010848350/medium/front/0007680800464,1
+12,295254,1.1115014E14,800000018118,0007680853356,Barilla Plus Thin Spaghetti Pasta,14.5 Oz,https://www.kroger.com/product/images/010840472/medium/front/0007680853356,2
+12,295254,1.1115014E14,800000018118,0007680800462,Barilla Collezione Orecchiette,12 Oz,https://www.kroger.com/product/images/010848350/medium/front/0007680800462,3
+12,295254,1.1115014E14,800000018118,0007680853355,Barilla Plus Angel Hair Pasta,14.5 Oz,https://www.kroger.com/product/images/010840472/medium/front/0007680853355,4
+12,295254,1.1115014E14,800000018118,0007680853360,Barilla Plus Penne Pasta,14.5 Oz,https://www.kroger.com/product/images/010840470/medium/front/0007680853360,5
+12,295254,1.1115014E14,800000018118,0007680800460,Barilla Collezione Casarecce,12 Oz,https://www.kroger.com/product/images/010848350/medium/front/0007680800460,6
+12,295254,1.1115014E14,800000018118,0007680853358,Barilla Rotini Pasta,14.5 Oz,https://www.kroger.com/product/images/010840470/medium/front/0007680853358,7
+12,295254,1.1115014E14,800000018118,0007680853357,Barilla Plus Spaghetti Pasta,14.5 Oz,https://www.kroger.com/product/images/010840472/medium/front/0007680853357,8
+12,295254,1.1115014E14,800000018118,0007680800461,Barilla Collezione Bucatini,12 Oz,https://www.kroger.com/product/images/010848350/medium/front/0007680800461,9
+12,295254,1.1115014E14,800000018118,0007680800032,Barilla Plus Farfalle Pasta Noodles,14.5 Oz,https://www.kroger.com/product/images/010840470/medium/front/0007680800032,10
+13,299632,1.1115014E14,800000035491,0007680800462,Barilla Collezione Orecchiette,12 Oz,https://www.kroger.com/product/images/010848350/medium/front/0007680800462,1
+13,299632,1.1115014E14,800000035491,0007680850108,Barilla Farfalle,16 Oz,https://www.kroger.com/product/images/010840470/medium/front/0007680850108,2
+13,299632,1.1115014E14,800000035491,0007680851798,Barilla Medium Shells,16 Oz,https://www.kroger.com/product/images/010840470/medium/front/0007680851798,3
+13,299632,1.1115014E14,800000035491,0007680800461,Barilla Collezione Bucatini,12 Oz,https://www.kroger.com/product/images/010848350/medium/front/0007680800461,4
+13,299632,1.1115014E14,800000035491,0007680850106,Barilla Angel Hair Capellini,1 Lb,https://www.kroger.com/product/images/010840472/medium/front/0007680850106,5
+13,299632,1.1115014E14,800000035491,0007680828098,Barilla Rotini,16 Oz,https://www.kroger.com/product/images/010840470/medium/front/0007680828098,6
+13,299632,1.1115014E14,800000035491,0007680828083,Barilla Mezzi Rigatoni,16 Oz,https://www.kroger.com/product/images/010840470/medium/front/0007680828083,7
+13,299632,1.1115014E14,800000035491,0007680828073,Barilla Penne Rigote,1 Lb,https://www.kroger.com/product/images/010840470/medium/front/0007680828073,8
+13,299632,1.1115014E14,800000035491,0007680828071,Barilla Mostaccioli,16 Oz,https://www.kroger.com/product/images/010840470/medium/front/0007680828071,9
+13,299632,1.1115014E14,800000035491,0007680800562,Barilla Pronto Spaghetti,12 Oz,https://www.kroger.com/product/images/010840472/medium/front/0007680800562,10
+14,305342,1.1115014E14,800000020080,0001111001667,Kroger Toffee Peanuts,12 Oz,https://www.kroger.com/product/images/600783277/medium/front/0001111001667,1
+14,305342,1.1115014E14,800000020080,0001111072451,Kroger Lightly Salted Peanuts,12 Oz,https://www.kroger.com/product/images/600783233/medium/front/0001111072451,2
+14,305342,1.1115014E14,800000020080,0001111001951,Kroger Hot & Spicy Peanuts,12 Oz,https://www.kroger.com/product/images/600783233/medium/front/0001111001951,3
+14,305342,1.1115014E14,800000020080,0001111001952,Kroger Salt & Pepper Peanuts,12 Oz,https://www.kroger.com/product/images/600783233/medium/front/0001111001952,4
+14,305342,1.1115014E14,800000020080,0001111066032,Kroger Honey Roasted Peanuts,12 Oz,https://www.kroger.com/product/images/600783277/medium/front/0001111066032,5
+14,305342,1.1115014E14,800000020080,0001111061319,Kroger Spanish Peanuts,12 Oz,https://www.kroger.com/product/images/600783233/medium/front/0001111061319,6
+14,305342,1.1115014E14,800000020080,0001111061315,Kroger Salted Peanuts,12 Oz,https://www.kroger.com/product/images/600783233/medium/front/0001111061315,7
+14,305342,1.1115014E14,800000020080,0001111061314,Kroger Unsalted Peanuts,12 Oz,https://www.kroger.com/product/images/600783233/medium/front/0001111061314,8
+15,304971,1.1115014E14,800000033977,0001411391019,Wonderful Salt & Pepper Pistachios,7 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391019,1
+15,304971,1.1115014E14,800000033977,0001411391254,Wonderful Pistachio Kernels,12 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391254,2
+15,304971,1.1115014E14,800000033977,0001411391203,Wonderful Roasted & Salted Pistachios,8 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391203,3
+15,304971,1.1115014E14,800000033977,0001411391297,Wonderful Sweet Chili Pistachios,7 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391297,4
+15,304971,1.1115014E14,800000033977,0001411391186,Wonderful Roasted & Salted Pistachios,24 Bags/1.5 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391186,5
+15,304971,1.1115014E14,800000033977,0001411391181,Wonderful Pistachios,16 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391181,6
+15,304971,1.1115014E14,800000033977,0001411391018,Wonderful Pistachios,8 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391018,7
+15,304971,1.1115014E14,800000033977,0001411391006,Wonderful No Salt Pistachios,16 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391006,8
+15,304971,1.1115014E14,800000033977,0001411391005,Wonderful Pistachios,32 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391005,9
+15,304971,1.1115014E14,800000033977,0001411391004,Wonderful Roasted and Salted Pistachios,10 Oz,https://www.kroger.com/product/images/076438117/medium/front/0001411391004,10
+16,302678,1.1115014E14,800000018417,0004100000518,Lipton Chicken Noodle Soup Mix,4.09 Oz,https://www.kroger.com/product/images/011358274/medium/front/0004100000518,1
+16,302678,1.1115014E14,800000018417,0004100000301,Lipton Soup Secrets Extra Noodle Soup Mix,4.9 Oz,https://www.kroger.com/product/images/010263176/medium/front/0004100000301,2
+16,302678,1.1115014E14,800000018417,0004100000324,Lipton Soup Secrets Noodle Soup Mix,4.5 Oz,https://www.kroger.com/product/images/010263176/medium/front/0004100000324,3
+16,302678,1.1115014E14,800000018417,0004100000332,Lipton Soup Secrets Chicken Noodle With Diced White Chicken Meat,4.2 Oz,https://www.kroger.com/product/images/010263176/medium/front/0004100000332,4
+16,302678,1.1115014E14,800000018417,0004100000490,Lipton Soup Secrets Ring-O-Noodle Soup Mix,4.9 Oz,https://www.kroger.com/product/images/010263176/medium/front/0004100000490,5
+16,302678,1.1115014E14,800000018417,0004100000519,Lipton Onion Soup Dip Mix,1.9 Oz,https://www.kroger.com/product/images/011358274/medium/front/0004100000519,6
+16,302678,1.1115014E14,800000018417,0004100000574,Lipton Kosher Vegetable Soup and Dip Mix,2 Oz,https://www.kroger.com/product/images/011358274/medium/front/0004100000574,7
+16,302678,1.1115014E14,800000018417,0004100000575,Lipton Kosher Ranch Soup and Dip Mix,2.4 Oz,https://www.kroger.com/product/images/011358274/medium/front/0004100000575,8
+16,302678,1.1115014E14,800000018417,0004100014066,Lipton Kosher Matzo Ball and Soup Mix,4.3 Oz,https://www.kroger.com/product/images/011358279/medium/front/0004100014066,9
+16,302678,1.1115014E14,800000018417,0004100014380,Lipton Kosher Matzo Ball Mix,4.3 Oz,https://www.kroger.com/product/images/011358279/medium/front/0004100014380,10
+17,301794,1.1115014E14,800000013507,0001600042365,Fiber One Oats & Chocolate Chewy Bars,21.2 Oz,https://www.kroger.com/product/images/010567601/medium/front/0001600042365,1
+17,301794,1.1115014E14,800000013507,0001600046175,Fiber One Sweet & Salty Nut Meal Bar,5 Count/1.6 Oz,https://www.kroger.com/product/images/031829021/medium/front/0001600046175,2
+17,301794,1.1115014E14,800000013507,0001600048036,Fiber One Soft Baked Double Chocolate Chip Cookies,6.6 Oz,https://www.kroger.com/product/images/600538320/medium/front/0001600048036,3
+17,301794,1.1115014E14,800000013507,0001600042371,Fiber One 90 Calorie Chocolate Fudge Brownies,5.34 Oz,https://www.kroger.com/product/images/010569464/medium/front/0001600042371,4
+17,301794,1.1115014E14,800000013507,0001600048035,General Mills Fiber One Soft-Baked Oatmeal Raisin Cookies,6.6 Oz,https://www.kroger.com/product/images/600538320/medium/front/0001600048035,5
+17,301794,1.1115014E14,800000013507,0001600048304,Fiber One Strawberry Streusel Bars,7.1 Oz,https://www.kroger.com/product/images/010567601/medium/front/0001600048304,6
+17,301794,1.1115014E14,800000013507,0001600048037,General Mills Fiber One Soft Baked Chocolate Chunk Cookie,6.6 Oz,https://www.kroger.com/product/images/600538320/medium/front/0001600048037,7
+17,301794,1.1115014E14,800000013507,0001600048125,Fiber One Chocolate Peanut Butter Meal Bar,7.95 Oz,https://www.kroger.com/product/images/031829021/medium/front/0001600048125,8
+17,301794,1.1115014E14,800000013507,0001600048126,Fiber One Dark Chocolate Almond Meal Bars,7.95 Oz,https://www.kroger.com/product/images/031829021/medium/front/0001600048126,9
+17,301794,1.1115014E14,800000013507,0001600048127,Fiber One Strawberry Greek Yogurt Meal Bar,7.95 Oz,https://www.kroger.com/product/images/031829021/medium/front/0001600048127,10
+18,300740,1.1115014E14,800000012635,0003076852779,Disney Avengers Multi Gummies,180 Count,https://www.kroger.com/product/images/031808402/medium/front/0003076852779,1
+18,300740,1.1115014E14,800000012635,0075942713560,Disney Pooh Gummies Multivitamins,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942713560,2
+18,300740,1.1115014E14,800000012635,0075942714925,Disney Multi Vitamin Gummies,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942714925,3
+18,300740,1.1115014E14,800000012635,0075942750962,Disney Phineas and Ferb Gummies Vitamins,60 Count,https://www.kroger.com/product/images/031808406/medium/front/0075942750962,4
+18,300740,1.1115014E14,800000012635,0075942714928,Disney Princess Gummies,180 Count,https://www.kroger.com/product/images/031808404/medium/front/0075942714928,5
+18,300740,1.1115014E14,800000012635,0075942752774,Disney Monsters University Multi-Vitamin Gummies,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942752774,6
+18,300740,1.1115014E14,800000012635,0075942716775,Disney Cars Multi-Vitamin Gummies,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942716775,7
+18,300740,1.1115014E14,800000012635,0075942719145,Disney Fairies Multi-Vitamin Gummies,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942719145,8
+18,300740,1.1115014E14,800000012635,0075942716780,Disney Cars Multivitamin Gummies,180 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942716780,9
+18,300740,1.1115014E14,800000012635,0075942752772,Disney Fiber Gummies,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942752772,10
+19,304048,1.1115014E14,800000030957,0003076852779,Disney Avengers Multi Gummies,180 Count,https://www.kroger.com/product/images/031808402/medium/front/0003076852779,1
+19,304048,1.1115014E14,800000030957,0075942752772,Disney Fiber Gummies,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942752772,2
+19,304048,1.1115014E14,800000030957,0075942750962,Disney Phineas and Ferb Gummies Vitamins,60 Count,https://www.kroger.com/product/images/031808406/medium/front/0075942750962,3
+19,304048,1.1115014E14,800000030957,0075942717955,Disney Hannah Montana Gummies Multivitamin,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942717955,4
+19,304048,1.1115014E14,800000030957,0075942752774,Disney Monsters University Multi-Vitamin Gummies,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942752774,5
+19,304048,1.1115014E14,800000030957,0075942719145,Disney Fairies Multi-Vitamin Gummies,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942719145,6
+19,304048,1.1115014E14,800000030957,0075942718838,Disney Wall-E Gummies Multivitamin,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942718838,7
+19,304048,1.1115014E14,800000030957,0075942716780,Disney Cars Multivitamin Gummies,180 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942716780,8
+19,304048,1.1115014E14,800000030957,0075942716775,Disney Cars Multi-Vitamin Gummies,60 Count,https://www.kroger.com/product/images/031808402/medium/front/0075942716775,9
+19,304048,1.1115014E14,800000030957,0075942714928,Disney Princess Gummies,180 Count,https://www.kroger.com/product/images/031808404/medium/front/0075942714928,10
+21,302419,1.1115014E14,800000017490,0007047018083,Yoplait Light Lemon Meringue Yogurt,6 Oz,https://www.kroger.com/product/images/050628303/medium/front/0007047018083,1
+21,302419,1.1115014E14,800000017490,0007047019659,Yoplait Original Mango Yogurt,6 Oz,https://www.kroger.com/product/images/050628302/medium/front/0007047019659,2
+21,302419,1.1115014E14,800000017490,0007047040853,Yoplait Original Tropical Flavored Yogurt,6 Oz,https://www.kroger.com/product/images/050628302/medium/front/0007047040853,3
+21,302419,1.1115014E14,800000017490,0007047026287,Yoplait Cherry Pomegranate Yogurt,6 Oz,https://www.kroger.com/product/images/050628302/medium/front/0007047026287,4
+21,302419,1.1115014E14,800000017490,0007047027101,Yoplait Light Strawberry Shortcake Yogurt,6 Oz,https://www.kroger.com/product/images/050628303/medium/front/0007047027101,5
+21,302419,1.1115014E14,800000017490,0007047027104,Yoplait Light Pineapple Upside Down Cake Yogurt,6 Oz,https://www.kroger.com/product/images/050628303/medium/front/0007047027104,6
+21,302419,1.1115014E14,800000017490,0007047027105,Yoplait Light Raspberry Lemonade Yogurt,6 Oz,https://www.kroger.com/product/images/050628303/medium/front/0007047027105,7
+21,302419,1.1115014E14,800000017490,0007047027106,Yoplait Light Raspberry Cheesecake Yogurt,6 Oz,https://www.kroger.com/product/images/050628303/medium/front/0007047027106,8
+21,302419,1.1115014E14,800000017490,0007047027742,Yoplait Light Black Forest Cake Yogurt,6 Oz,https://www.kroger.com/product/images/050628303/medium/front/0007047027742,9
+21,302419,1.1115014E14,800000017490,0007047027831,Yoplait Whips Vanilla Creme Yogurt,4 Oz,https://www.kroger.com/product/images/050628302/medium/front/0007047027831,10
+22,303387,1.1115014E14,800000025219,0003700085985,Charmin Basic Bath Tissue,16 ROLLS,https://www.kroger.com/product/images/011129762/medium/front/0003700085985,1
+23,303388,1.1115014E14,800000025220,0003700083344,Charmin Ultra Strong Bath Tissue,9 ROLLS,https://www.kroger.com/product/images/011129762/medium/front/0003700083344,1
+23,303388,1.1115014E14,800000025220,0003700085739,Charmin Sensitive Bath Tissue,12 ROLLS,https://www.kroger.com/product/images/011129762/medium/front/0003700085739,2
+23,303388,1.1115014E14,800000025220,0003700023727,Charmin Freshmates Cleaner Clean Wipes Tub,40 Count,https://www.kroger.com/product/images/011129764/medium/front/0003700023727,3
+23,303388,1.1115014E14,800000025220,0003700023756,Charmin Freshmates Cleaner Clean Wipes Refill,80 Count,https://www.kroger.com/product/images/011129764/medium/front/0003700023756,4
+23,303388,1.1115014E14,800000025220,0003700029709,Charmin Ultra Soft Bath Tissue,9 ROLLS,https://www.kroger.com/product/images/011129762/medium/front/0003700029709,5
+23,303388,1.1115014E14,800000025220,0003700086502,Charmin Ultra Strong Bath Tissue,71.8 SF,https://www.kroger.com/product/images/011129762/medium/front/0003700086502,6
+23,303388,1.1115014E14,800000025220,0003700086505,Charmin Ultra Strong Bath Tissue,12 ROLLS,https://www.kroger.com/product/images/011129762/medium/front/0003700086505,7
+23,303388,1.1115014E14,800000025220,0003700086523,Charmin Mega Roll Ultra Strong Bath Tissue,12 Rolls,https://www.kroger.com/product/images/011129762/medium/front/0003700086523,8
+23,303388,1.1115014E14,800000025220,0003700086527,Charmin Mega Roll Ultra Strong Bath Tissue,6 ROLLS,https://www.kroger.com/product/images/011129762/medium/front/0003700086527,9
+23,303388,1.1115014E14,800000025220,0003700086528,Charmin Mega Roll Ultra Strong Bath Tissue,16 Rolls,https://www.kroger.com/product/images/011129762/medium/front/0003700086528,10
+24,303390,1.1115014E14,800000025242,0003700028831,Bounty Select A Size Paper Towels,8 ROLLS,https://www.kroger.com/product/images/011119763/medium/front/0003700028831,1
+24,303390,1.1115014E14,800000025242,0003700085857,Bounty White Paper Towels,2 ROLLS,https://www.kroger.com/product/images/011119763/medium/front/0003700085857,2
+24,303390,1.1115014E14,800000025242,0003700084881,Bounty Duratowel King Rolls,2 ROLLS,https://www.kroger.com/product/images/011119763/medium/front/0003700084881,3
+24,303390,1.1115014E14,800000025242,0003700084883,Bounty DuraTowel King Roll Paper Towels,6 ROLLS,https://www.kroger.com/product/images/011119763/medium/front/0003700084883,4
+24,303390,1.1115014E14,800000025242,0003700028722,Bounty Extra Soft Prints Paper Towels,6 ROLLS,https://www.kroger.com/product/images/011119763/medium/front/0003700028722,5
+24,303390,1.1115014E14,800000025242,0003700081531,Bounty 8 Roll Select a Size White Paper Towels,8 ROLLS,https://www.kroger.com/product/images/011119763/medium/front/0003700081531,6
+24,303390,1.1115014E14,800000025242,0003700028839,Bounty White Paper Towels 8 Pack,8 ROLLS,https://www.kroger.com/product/images/011119763/medium/front/0003700028839,7
+24,303390,1.1115014E14,800000025242,0003700034884,Bounty Napkins,100 Count,https://www.kroger.com/product/images/011529761/medium/front/0003700034884,8
+24,303390,1.1115014E14,800000025242,0003700034885,Bounty Everyday White Print Napkins,200 Count,https://www.kroger.com/product/images/011529761/medium/front/0003700034885,9
+24,303390,1.1115014E14,800000025242,0003700088236,Bounty Huge Roll Paper Towels,8 ROLLS,https://www.kroger.com/product/images/011119763/medium/front/0003700088236,10
+25,303225,1.1115014E14,800000023377,0001111083566,Kroger Plastic Compartment Plates,22 Count,https://www.kroger.com/product/images/011140009/medium/front/0001111083566,1
+25,303225,1.1115014E14,800000023377,0001111086972,Kroger Home Sense Designer Paper Cups,100 Count,https://www.kroger.com/product/images/011140001/medium/front/0001111086972,2
+25,303225,1.1115014E14,800000023377,0001111086952,Kroger Home Sense Designer Paper Plates,24 Count,https://www.kroger.com/product/images/011140004/medium/front/0001111086952,3
+25,303225,1.1115014E14,800000023377,0001111086951,Kroger Home Sense Designer Paper Plates,48 Count,https://www.kroger.com/product/images/011140004/medium/front/0001111086951,4
+25,303225,1.1115014E14,800000023377,0001111086999,Kroger Home Sense Foam 16 oz Cups,24 Count,https://www.kroger.com/product/images/011140002/medium/front/0001111086999,5
+25,303225,1.1115014E14,800000023377,0001111086943,Kroger Home Sense Designer Paper Cups,200 Count,https://www.kroger.com/product/images/011140001/medium/front/0001111086943,6
+25,303225,1.1115014E14,800000023377,0001111086901,Kroger Home Sense Paper Plates,150 Count,https://www.kroger.com/product/images/011140006/medium/front/0001111086901,7
+25,303225,1.1115014E14,800000023377,0001111086819,Kroger Home Sense Elegant Plastic Spoons,24 Count,https://www.kroger.com/product/images/011140008/medium/front/0001111086819,8
+25,303225,1.1115014E14,800000023377,0001111086818,Kroger Home Sense Plastic Forks,24 Count,https://www.kroger.com/product/images/011140008/medium/front/0001111086818,9
+25,303225,1.1115014E14,800000023377,0001111086817,Kroger Home Sense Plastic Dinnerware Set,24 Count,https://www.kroger.com/product/images/011140008/medium/front/0001111086817,10
+26,301152,1.1115014E14,800000015120,0003600028788,Viva Towels Big Roll Choose-A-Size Paper Towels,1 ROLL,https://www.kroger.com/product/images/011119763/medium/front/0003600028788,1
+26,301152,1.1115014E14,800000015120,0003600039413,Viva Vantage Big Roll,1 Roll,https://www.kroger.com/product/images/011119763/medium/front/0003600039413,2
+27,301403,1.1115014E14,800000010452,0003600011417,Viva Giant Paper Towels,8 ROLLS,https://www.kroger.com/product/images/011119763/medium/front/0003600011417,1
+28,301004,1.1115014E14,800000010023,0007218063018,Red Baron Fire Baked Original Crust Pepperoni Pizza,19.85 Oz,https://www.kroger.com/product/images/450380023/medium/front/0007218063018,1
+28,301004,1.1115014E14,800000010023,0007218063321,Red Baron Thin & Crispy Cheese Pizza,14.76 Oz,https://www.kroger.com/product/images/450380023/medium/front/0007218063321,2
+28,301004,1.1115014E14,800000010023,0007218063104,Red Baron Deep Dish Singles Cheese Pizza,11.2 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063104,3
+28,301004,1.1115014E14,800000010023,0007218063123,Red Baron Singles Deep Dish Hawaiian Pizza,10.56 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063123,4
+28,301004,1.1115014E14,800000010023,0007218063243,Red Baron French Bread Singles 3-Meat Pizza,11 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063243,5
+28,301004,1.1115014E14,800000010023,0007218063244,Red Baron French Bread Singles Pepperoni Pizza,10.8 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063244,6
+28,301004,1.1115014E14,800000010023,0007218056771,Red Baron Original Crust Pepperoni Pizza,11.64 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218056771,7
+28,301004,1.1115014E14,800000010023,0007218063245,Red Baron French Bread Singles 5 Cheese Garlic Pizza,8.8 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063245,8
+28,301004,1.1115014E14,800000010023,0007218063247,Red Baron French Bread Singles Supreme Pizzas,11.6 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063247,9
+28,301004,1.1115014E14,800000010023,0007218056442,Red Baron Singles French Bread Three Meat Pizza,33 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218056442,10
+29,305009,1.1115014E14,800000012175,0007218063754,Red Baron Deep Dish Singles Supreme Pizza,11.5 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063754,1
+29,305009,1.1115014E14,800000012175,0007218063472,Red Baron Classic Crust Sausage Pizza,21.82 Oz,https://www.kroger.com/product/images/450380023/medium/front/0007218063472,2
+29,305009,1.1115014E14,800000012175,0007218063473,Red Baron Classic Crust Pepperoni Pizza,20.6 Oz,https://www.kroger.com/product/images/450380023/medium/front/0007218063473,3
+29,305009,1.1115014E14,800000012175,0007218063474,Red Baron Classic Crust Hamburger Pizza,21.76 Oz,https://www.kroger.com/product/images/450380023/medium/top/0007218063474,4
+29,305009,1.1115014E14,800000012175,0007218056750,Red Baron Thick Pan Pepperoni Pizza,9.6 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218056750,5
+29,305009,1.1115014E14,800000012175,0007218063481,Red Baron Classic Crust Four Meat Pizza,21.77 Oz,https://www.kroger.com/product/images/450380023/medium/front/0007218063481,6
+29,305009,1.1115014E14,800000012175,0007218063750,Red Baron Deep Dish Sausage Pizzas,11.6 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063750,7
+29,305009,1.1115014E14,800000012175,0007218056742,Red Baron Classic Crust Hawaiian Style Pizza,18.9 Oz,https://www.kroger.com/product/images/450380023/medium/front/0007218056742,8
+29,305009,1.1115014E14,800000012175,0007218063751,Red Baron Deep Dish Singles Pepperoni Pizzas,11.2 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063751,9
+29,305009,1.1115014E14,800000012175,0007218063752,Red Baron Deep,11.2 Oz,https://www.kroger.com/product/images/450380026/medium/front/0007218063752,10
+30,301248,1.1115014E14,800000014997,0001111084298,Kroger Coffee Creamer Limited Edition Vanilla Caramel,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111084298,1
+30,301248,1.1115014E14,800000014997,0001111088433,Kroger Coffee Creamer Hazelnut,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111088433,2
+30,301248,1.1115014E14,800000014997,0001111080135,Kroger Coffee Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111080135,3
+30,301248,1.1115014E14,800000014997,0001111079767,Kroger Sugar Free French Vanilla Coffee Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111079767,4
+30,301248,1.1115014E14,800000014997,0001111079766,Kroger Sugar Free Hazelnut Coffee Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111079766,5
+30,301248,1.1115014E14,800000014997,0001111084299,Kroger Coffee Creamer Creme Brulee,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111084299,6
+30,301248,1.1115014E14,800000014997,0001111080136,Kroger Coffee Creamer Fat Free Original,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111080136,7
+30,301248,1.1115014E14,800000014997,0001111085439,Kroger Gingerbread Coffee Creamer,16 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111085439,8
+30,301248,1.1115014E14,800000014997,0001111082374,Kroger Coffee Creamer Fat Free Hazelnut,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111082374,9
+30,301248,1.1115014E14,800000014997,0001111082375,Kroger Coffee Creamer Fat Free French Vanilla,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0001111082375,10
+31,303368,1.1115014E14,800000025164,0003700091978,Crest Pro-Health Junior Star Wars Toothpaste,4.2 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700091978,1
+31,303368,1.1115014E14,800000025164,0003700044612,Crest Pro-Health Stages Liquid Gel Toothpaste,4.6 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700044612,2
+31,303368,1.1115014E14,800000025164,0003700000338,Crest Neat Squeeze for Kids Toothpaste,6 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700000338,3
+31,303368,1.1115014E14,800000025164,0003700086058,Crest ProHealth Stages Avengers Toothpaste,4.2 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700086058,4
+31,303368,1.1115014E14,800000025164,0003700000382,Crest Kids Toothpaste,4.6 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700000382,5
+31,303368,1.1115014E14,800000025164,0003700028199,Crest Pro Health For Me Toothpaste,6 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700028199,6
+31,303368,1.1115014E14,800000025164,0003700028198,Crest Pro-Health for Me Frozen Paste,4.2 Oz,https://www.kroger.com/product/images/031716014/medium/front/0003700028198,7
+31,303368,1.1115014E14,800000025164,0030041010116,Crest Pro Health Jake and Pirates Toothpaste,4.2 Oz,https://www.kroger.com/product/images/031716014/medium/front/0030041010116,8
+31,303368,1.1115014E14,800000025164,0030041665029,Oral-B Stages Toothpaste Toy Story,4.2 OZ,https://www.kroger.com/product/images/031716014/medium/front/0030041665029,9
+31,303368,1.1115014E14,800000025164,0006830563235,Oral B Stage 3 Princess Toothpaste,4.2 Oz,https://www.kroger.com/product/images/031716014/medium/front/0006830563235,10
+32,300198,1.1115014E14,800000022470,0004127100907,International Delight White Chocolate Raspberry Creamer,16 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100907,1
+32,300198,1.1115014E14,800000022470,0004127100824,International Delight Skinny White Chocolate Mocha Creamer,16 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100824,2
+32,300198,1.1115014E14,800000022470,0004127100908,International Delight White Chocolate Raspberry Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100908,3
+32,300198,1.1115014E14,800000022470,0004127100922,International Delight Coffee House Caramel Macchiato,16 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100922,4
+32,300198,1.1115014E14,800000022470,0004127100924,International Delight Coffee House White Chocolate Mocha Creamer,16 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100924,5
+32,300198,1.1115014E14,800000022470,0004127100945,International Delight Skinny Caramel Macchiato Coffee Creamer,16 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100945,6
+32,300198,1.1115014E14,800000022470,0004127100955,International Delight Caramel Macchiato Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100955,7
+32,300198,1.1115014E14,800000022470,0004127100956,International Delight White Chocolate Mocha Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100956,8
+32,300198,1.1115014E14,800000022470,0004127100974,International Delight Creamer Singles - Caramel Macchiato 24 Count,24 Count,https://www.kroger.com/product/images/010246180/medium/front/0004127100974,9
+32,300198,1.1115014E14,800000022470,0004127101819,International Delight Heath Bar Creamer Singles,24 Count,https://www.kroger.com/product/images/010246180/medium/top/0004127101819,10
+33,301006,1.1115014E14,800000012140,0004127100884,International Delight Belgian White Chocolate Macadamia Nut Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100884,1
+33,301006,1.1115014E14,800000012140,0004127101993,International Delight Cinnabon Coffee Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127101993,2
+33,301006,1.1115014E14,800000012140,0004127102260,International Delight Sugar Free & Fat Free Pumpkin Pie Spice Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127102260,3
+33,301006,1.1115014E14,800000012140,0004127102258,International Delight Peppermint Chocolate Truffle Creamer,1 Quart,https://www.kroger.com/product/images/050794529/medium/front/0004127102258,4
+33,301006,1.1115014E14,800000012140,0004127102256,International Delight Frosted Sugar Cookie Creamer,1 Quart,https://www.kroger.com/product/images/050794529/medium/front/0004127102256,5
+33,301006,1.1115014E14,800000012140,0004127100955,International Delight Caramel Macchiato Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100955,6
+33,301006,1.1115014E14,800000012140,0004127102253,International Delight Sugar Free Fat Free Caramel Macchiato,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127102253,7
+33,301006,1.1115014E14,800000012140,0004127101997,International Delight Almond Joy Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127101997,8
+33,301006,1.1115014E14,800000012140,0004127100908,International Delight White Chocolate Raspberry Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100908,9
+33,301006,1.1115014E14,800000012140,0004127100472,International Delight Cold Stone Sweet Cream Coffee Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100472,10
+34,305483,1.1115014E14,800000036330,0004127101782,International Delight Cold Stone Creamery Sweet Cream Iced Coffee,64 Fl Oz,https://www.kroger.com/product/images/050634547/medium/front/0004127101782,1
+34,305483,1.1115014E14,800000036330,0004127102253,International Delight Sugar Free Fat Free Caramel Macchiato,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127102253,2
+34,305483,1.1115014E14,800000036330,0004127100924,International Delight Coffee House White Chocolate Mocha Creamer,16 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100924,3
+34,305483,1.1115014E14,800000036330,0004127100945,International Delight Skinny Caramel Macchiato Coffee Creamer,16 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100945,4
+34,305483,1.1115014E14,800000036330,0004127102121,International Delight Sugar Free Caramel Macchiato Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127102121,5
+34,305483,1.1115014E14,800000036330,0004127102161,International Delight French Vanilla Creamer,16 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127102161,6
+34,305483,1.1115014E14,800000036330,0004127100955,International Delight Caramel Macchiato Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100955,7
+34,305483,1.1115014E14,800000036330,0004127101993,International Delight Cinnabon Coffee Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127101993,8
+34,305483,1.1115014E14,800000036330,0004127100956,International Delight White Chocolate Mocha Creamer,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127100956,9
+34,305483,1.1115014E14,800000036330,0004127102160,International Delight Sugar Free Pumpkin Pie Spice,32 Fl Oz,https://www.kroger.com/product/images/050794529/medium/front/0004127102160,10
+35,294738,1.1115014E14,800000014985,0003000000137,Muller Greek Corner Mango Yogurt,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000137,1
+35,294738,1.1115014E14,800000014985,0003000000225,Muller Greek Corner Peach Yogurt,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000225,2
+35,294738,1.1115014E14,800000014985,0003000000228,Muller Dark Chocolate Shavings With Raspberry Lowfat Yorgurt,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000228,3
+35,294738,1.1115014E14,800000014985,0003000000227,Muller Dark Chocolate & Cherry Yogurt,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000227,4
+35,294738,1.1115014E14,800000014985,0003000000224,Muller Greek Corner Blueberry Yogurt,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000224,5
+35,294738,1.1115014E14,800000014985,0003000000144,Muller Greek 100 Blackberry & Raspberry Yogurt,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000144,6
+35,294738,1.1115014E14,800000014985,0003000000143,Muller Greek 100 Black Cherry & Pomegranate Yogurt,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000143,7
+35,294738,1.1115014E14,800000014985,0003000000138,Muller Greek Corner Low Fat Yogurt With Pineapple Passion Fruit,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000138,8
+35,294738,1.1115014E14,800000014985,0003000000915,Muller Corner Crunchy Granola Yogurt,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000915,9
+35,294738,1.1115014E14,800000014985,0003000000135,Muller Greek 100 Strawberry Yogurt,5.3 Oz,https://www.kroger.com/product/images/050624534/medium/front/0003000000135,10
+36,301286,1.1115014E14,800000015236,0003700026883,Cascade Complete Action Pacs,48 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700026883,1
+36,301286,1.1115014E14,800000015236,0003700014393,Cascade Action Pacs Citrus Breeze,60 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700014393,2
+36,301286,1.1115014E14,800000015236,0003700014392,Cascade Action Pacs Detergent,60 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700014392,3
+36,301286,1.1115014E14,800000015236,0003700084470,Cascade Platinum Lemon Burst Dishwasher Detergent Pacs,43 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700084470,4
+36,301286,1.1115014E14,800000015236,0003700084464,Cascade Platinum Dishwashing Pacs,43 Count,https://www.kroger.com/product/images/011037718/medium/front/0003700084464,5
+37,300525,1.1115014E14,800000010559,0004060038718,I Can't Believe It's Not Butter Light Margarine,15 Oz,https://www.kroger.com/product/images/020672511/medium/front/0004060038718,1
+37,300525,1.1115014E14,800000010559,0004060034100,I Can't Believe It's Not Butter Soft Margarine,15 Oz,https://www.kroger.com/product/images/020672511/medium/front/0004060034100,2
+37,300525,1.1115014E14,800000010559,0004060038918,I Cant Believe It's Not Butter Light Margarine,15 Oz,https://www.kroger.com/product/images/020672511/medium/front/0004060038918,3
+37,300525,1.1115014E14,800000010559,0004060034500,I Can't Believe It's Not Butter Soft Margarine,15 Oz,https://www.kroger.com/product/images/020672511/medium/front/0004060034500,4
+37,300525,1.1115014E14,800000010559,0004060034122,I Can't Believe It's Not Butter Spray,8 Oz,https://www.kroger.com/product/images/020672512/medium/front/0004060034122,5
+37,300525,1.1115014E14,800000010559,0004060032780,I Can't Believe It's Not Butter! Deliciously Simple Spread,12 Oz,https://www.kroger.com/product/images/020672511/medium/front/0004060032780,6
+37,300525,1.1115014E14,800000010559,0004060022425,I Can't Believe It's Not Butter! Original Margarine,45 Oz,https://www.kroger.com/product/images/020672511/medium/front/0004060022425,7
+37,300525,1.1115014E14,800000010559,0004060022423,I Can't Believe It's Not Butter! Light Margarine,45 Oz,https://www.kroger.com/product/images/020672511/medium/front/0004060022423,8
+37,300525,1.1115014E14,800000010559,0004060022253,I Can't Believe It's Not Butter Light Mediterranean Blend,15 Oz,https://www.kroger.com/product/images/020672511/medium/front/0004060022253,9
+37,300525,1.1115014E14,800000010559,0004060022199,I Cant Believe its Not Butter Made with Olive Oil,15 Oz,https://www.kroger.com/product/images/020672511/medium/front/0004060022199,10
+38,302757,1.1115014E14,800000017263,0004650002246,Shout Stain Remover Wipes,12 Count,https://www.kroger.com/product/images/011063008/medium/front/0004650002246,1
+38,302757,1.1115014E14,800000017263,0004650022297,Shout Advanced Action Gel Stain Remover,14 Fl Oz,https://www.kroger.com/product/images/011063008/medium/front/0004650022297,2
+38,302757,1.1115014E14,800000017263,0004650002269,Shout Advance Ultra Gel Stain Remover,8.7 Fl Oz,https://www.kroger.com/product/images/011063008/medium/front/0004650002269,3
+38,302757,1.1115014E14,800000017263,0004650002251,Shout Stain Remover,22 Fl Oz,https://www.kroger.com/product/images/011063008/medium/front/0004650002251,4
+38,302757,1.1115014E14,800000017263,0004650062248,Shout Color Catcher Sheets,24 Count,https://www.kroger.com/product/images/011063008/medium/front/0004650062248,5
+39,298731,1.1115014E14,800000023249,0001111083454,Simple Truth Organic Plain Nonfat Greek Yogurt,32 Oz,https://www.kroger.com/product/images/172908808/medium/front/0001111083454,1
+39,298731,1.1115014E14,800000023249,0001111083446,Simple Truth Organic Nonfat Vanilla Greek Yogurt,32 Oz,https://www.kroger.com/product/images/172908808/medium/front/0001111083446,2
+40,301795,1.1115014E14,800000013510,0007047045209,Yoplait Go-Gurt Protein Berry Extreme & Burstin' Berry Lemonade,18 Oz,https://www.kroger.com/product/images/050628301/medium/front/0007047045209,1
+40,301795,1.1115014E14,800000013510,0007047045208,Yoplait Go-Gurt Protein Strawberry Superstar & Mighty Fruit Punch,18 Oz,https://www.kroger.com/product/images/050628301/medium/front/0007047045208,2
+40,301795,1.1115014E14,800000013510,0007047040858,Yoplait Original Apple Crisp,16 Oz,https://www.kroger.com/product/images/050624560/medium/front/0007047040858,3
+40,301795,1.1115014E14,800000013510,0007047045435,Yoplait Go-Gurt Twisted Strawberry Mango,18 Oz,https://www.kroger.com/product/images/050628301/medium/front/0007047045435,4
+40,301795,1.1115014E14,800000013510,0007047044344,Yoplait Trix Triple Cherry Yogurt,16 Oz,https://www.kroger.com/product/images/050628301/medium/front/0007047044344,5
+40,301795,1.1115014E14,800000013510,0007047044343,Yoplait Trix Cotton Candy Yogurt,16 Oz,https://www.kroger.com/product/images/050628301/medium/front/0007047044343,6
+40,301795,1.1115014E14,800000013510,0007047044341,Yoplait Trix Strawberry Banana Bash Yogurt,16 Oz,https://www.kroger.com/product/images/050628301/medium/front/0007047044341,7
+40,301795,1.1115014E14,800000013510,0007047043947,Yoplait Kids Strawberry Banana Yogurt,12 Oz,https://www.kroger.com/product/images/050628301/medium/front/0007047043947,8
+40,301795,1.1115014E14,800000013510,0007047043946,Yoplait Kids Strawberry Yogurt,12 Oz,https://www.kroger.com/product/images/050628301/medium/front/0007047043946,9
+40,301795,1.1115014E14,800000013510,0007047040513,Yoplait Strawberry Banana Burst & Blue Raspberry Ice Go-Gurt,36 Oz,https://www.kroger.com/product/images/050628301/medium/front/0007047040513,10
+41,296955,1.1115014E14,800000011042,0007124925747,L'oreal Age Perfect Glow Renewal Moisturizing Day/night Cream,1.7 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124925747,1
+41,296955,1.1115014E14,800000011042,0007124923916,L'oreal Paris Youth Code Day/night Texture Perfector,1.7 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124923916,2
+41,296955,1.1115014E14,800000011042,0007124923915,L'oreal Youth Code Texture Perfector Serum,1 Fl Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124923915,3
+41,296955,1.1115014E14,800000011042,0007124923723,L'oreal Youth Code Light Skin Bb Cream,2.5 Fl Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124923723,4
+41,296955,1.1115014E14,800000011042,0007124924073,L'Oreal Revitalift Triple Power Overnight Mask,1.7 Oz,https://www.kroger.com/product/images/031622316/medium/front/0007124924073,5
+41,296955,1.1115014E14,800000011042,0007124924082,L'Oreal Revitalift Triple Power Deep-Acting Moisturizer,1.7 Fl Oz,https://www.kroger.com/product/images/031622308/medium/front/0007124924082,6
+41,296955,1.1115014E14,800000011042,0007124922079,L'Oreal Youth Code Dark Spot Correcting Illuminating Day Cream,1.6 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124922079,7
+41,296955,1.1115014E14,800000011042,0007124924877,L'oreal Youth Code Texture Perfector Pore Vanisher,1.4 Fl Oz,https://www.kroger.com/product/images/031622308/medium/front/0007124924877,8
+41,296955,1.1115014E14,800000011042,0007124924913,L'oreal Revitalift Skin Smoother Finishing Cream,1.35 Fl Oz,https://www.kroger.com/product/images/031622308/medium/front/0007124924913,9
+41,296955,1.1115014E14,800000011042,0007124926264,L'oreal Revitalift Miracle Blur Eye,0.5 Fl Oz,https://www.kroger.com/product/images/031622310/medium/front/0007124926264,10
+42,296956,1.1115014E14,800000011072,0007124910461,L'Oreal Revitalift Complete Eye Cream,.5 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124910461,1
+42,296956,1.1115014E14,800000011072,0007124921710,L'Oreal Visible Lift Repair Absolute Soft Ivory Foundation,1 Count,https://www.kroger.com/product/images/168131073/medium/front/0007124921710,2
+42,296956,1.1115014E14,800000011072,0007124929178,L'Oreal Revitalift Volume Filler Cream,1.7 Oz,https://www.kroger.com/product/images/031622310/medium/front/0007124929178,3
+42,296956,1.1115014E14,800000011072,0007124905320,L'Oreal Age Perfect Night Cream,2.5 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124905320,4
+42,296956,1.1115014E14,800000011072,0007124924082,L'Oreal Revitalift Triple Power Deep-Acting Moisturizer,1.7 Fl Oz,https://www.kroger.com/product/images/031622308/medium/front/0007124924082,5
+42,296956,1.1115014E14,800000011072,0007124922079,L'Oreal Youth Code Dark Spot Correcting Illuminating Day Cream,1.6 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124922079,6
+42,296956,1.1115014E14,800000011072,0007124917862,L'Oreal Advanced Revitalift Complete Day Lotion Spf 30,1.7 Fl Oz,https://www.kroger.com/product/images/031622308/medium/front/0007124917862,7
+42,296956,1.1115014E14,800000011072,0007124905170,L'Oreal Age Perfect Day Cream,2.5 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124905170,8
+42,296956,1.1115014E14,800000011072,0007124910460,L'Oreal Advanced Revitalift Face and Neck Day Cream,1.7 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124910460,9
+42,296956,1.1115014E14,800000011072,0007124924073,L'Oreal Revitalift Triple Power Overnight Mask,1.7 Oz,https://www.kroger.com/product/images/031622316/medium/front/0007124924073,10
+43,297664,1.1115014E14,800000035635,0007124917862,L'Oreal Advanced Revitalift Complete Day Lotion Spf 30,1.7 Fl Oz,https://www.kroger.com/product/images/031622308/medium/front/0007124917862,1
+43,297664,1.1115014E14,800000035635,0007124922079,L'Oreal Youth Code Dark Spot Correcting Illuminating Day Cream,1.6 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124922079,2
+43,297664,1.1115014E14,800000035635,0007124905170,L'Oreal Age Perfect Day Cream,2.5 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124905170,3
+43,297664,1.1115014E14,800000035635,0007124921333,L'Oreal Youth Code Dark Spot Correcting Illuminating Serum,1 Fl Oz,https://www.kroger.com/product/images/031622308/medium/front/0007124921333,4
+43,297664,1.1115014E14,800000035635,0007124918701,L'oreal Youth Code Night Cream,1.6 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124918701,5
+43,297664,1.1115014E14,800000035635,0007124923915,L'oreal Youth Code Texture Perfector Serum,1 Fl Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124923915,6
+43,297664,1.1115014E14,800000035635,0007124910461,L'Oreal Revitalift Complete Eye Cream,.5 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124910461,7
+43,297664,1.1115014E14,800000035635,0007124910460,L'Oreal Advanced Revitalift Face and Neck Day Cream,1.7 Oz,https://www.kroger.com/product/images/031622306/medium/front/0007124910460,8
+43,297664,1.1115014E14,800000035635,0007124929380,L'Oreal Age Perfect Cell Renewal Light Beauty Oil,1 Fl Oz,https://www.kroger.com/product/images/031622310/medium/front/0007124929380,9
+43,297664,1.1115014E14,800000035635,0007124927532,L'oreal Revitalift Moisture Blur Cream,1.7 Fl Oz,https://www.kroger.com/product/images/031622310/medium/front/0007124927532,10
+44,305038,1.1115014E14,800000017423,0007940034308,Degree for Women Shower Clean Dry Spray Deodorant,3.8 Oz,https://www.kroger.com/product/images/031633019/medium/front/0007940034308,1
+44,305038,1.1115014E14,800000017423,0007940035069,Dove Men+Care Extra Fresh Dry Spray Deodorant,3.8 Oz,https://www.kroger.com/product/images/031633019/medium/front/0007940035069,2
+44,305038,1.1115014E14,800000017423,0007940035030,Dove Men+Care Clean Comfort Dry Spray Deodorant,3.8 Oz,https://www.kroger.com/product/images/031633019/medium/front/0007940035030,3
+44,305038,1.1115014E14,800000017423,0007940034368,Degree for Men Adventure Dry Spray Deodorant,3.8 Oz,https://www.kroger.com/product/images/031633019/medium/front/0007940034368,4
+44,305038,1.1115014E14,800000017423,0007940034361,Degree for Women Fresh Energy Dry Spray Deodorant,3.8 Oz,https://www.kroger.com/product/images/031633019/medium/front/0007940034361,5
+45,298738,1.1115014E14,800000023259,0001111090166,Kroger Four Cheese Calzone,6 Oz,https://www.kroger.com/product/images/404040415/medium/front/0001111090166,1
+45,298738,1.1115014E14,800000023259,0001111090165,Kroger Pepperoni Calzone,6 Oz,https://www.kroger.com/product/images/404040415/medium/front/0001111090165,2
+46,305673,1.1115014E14,800000011710,0001111090165,Kroger Pepperoni Calzone,6 Oz,https://www.kroger.com/product/images/404040415/medium/front/0001111090165,1
+47,300553,1.1115014E14,800000010285,0007218063770,Freschetta Thin & Crispy Crust Canadian Style Bacon & Pineapple Pizza,16.7 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218063770,1
+47,300553,1.1115014E14,800000010285,0007218056706,Freschetta Naturally Rising Crust Sausage & Pepperoni Pizza,29.48 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218056706,2
+47,300553,1.1115014E14,800000010285,0007218056707,Freschetta Natural Rising Crust Margherita Pizza,27.37 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218056707,3
+47,300553,1.1115014E14,800000010285,0007218056705,Freschetta Brick Oven Crust Chicken Club Pizza,21.82 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218056705,4
+47,300553,1.1115014E14,800000010285,0007218056356,Freschetta Brick Oven Crust 3 Meat Medley Pizza,23.09 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218056356,5
+47,300553,1.1115014E14,800000010285,0007218063035,Freschetta Brick Oven Crust 5-Italian Cheese Pizza,20.28 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218063035,6
+47,300553,1.1115014E14,800000010285,0007218063052,Freschetta Brick Oven Crust Pepperoni & Italian Style Cheese Pizza,22.7 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218063052,7
+47,300553,1.1115014E14,800000010285,0007218063055,Freschetta Brick Oven Crust Zesty Italian Style Supreme Pizza,23.28 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218063055,8
+47,300553,1.1115014E14,800000010285,0007218063069,Freschetta Naturally Rising Crust Canadian Style Bacon & Pineapple Pizza,27.51 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218063069,9
+47,300553,1.1115014E14,800000010285,0007218063074,Freschetta Brick Oven Crust Roasted Portabella Mushrooms & Spinach Pizza,22.52 Oz,https://www.kroger.com/product/images/450380016/medium/front/0007218063074,10
+48,300691,1.1115014E14,800000011505,0004155422204,Maybelline Lash Stiletto Voluptuous Washable Brownish Black Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155422204,1
+48,300691,1.1115014E14,800000011505,0004155467074,Maybelline Great Lash Blackest Black Mascara,1 Each,https://www.kroger.com/product/images/168131081/medium/front/0004155467074,2
+48,300691,1.1115014E14,800000011505,0004155422203,Maybelline Lash Stiletto Voluptuous Washable Very Black Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155422203,3
+48,300691,1.1115014E14,800000011505,0004155421913,Maybelline Xxl Pro Volume Very Black Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155421913,4
+48,300691,1.1115014E14,800000011505,0004155405416,Maybelline Lash Stiletto Brownish Black Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155405416,5
+48,300691,1.1115014E14,800000011505,0004155405417,Maybelline Lash Stiletto Soft Black Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155405417,6
+48,300691,1.1115014E14,800000011505,0004155405676,Maybelline Volum' Express Colossal Brownish Black Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155405676,7
+48,300691,1.1115014E14,800000011505,0004155405677,Maybelline Volume Colossal Classic Brown Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155405677,8
+48,300691,1.1115014E14,800000011505,0004155419700,Maybelline Pulse Perfection Very Black Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155419700,9
+48,300691,1.1115014E14,800000011505,0004155419703,Maybelline Volum' Express Colossal Glam Black Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155419703,10
+49,301428,1.1115014E14,800000010617,0004900005075,Powerade Zero Mixed Berry,8 Bottles/20 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900005075,1
+49,301428,1.1115014E14,800000010617,0004900005468,Powerade Mountain Berry,12 Bottles/12 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900005468,2
+49,301428,1.1115014E14,800000010617,0004900005074,Powerade Zero Grape Flavor,8/20 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900005074,3
+49,301428,1.1115014E14,800000010617,0004900005467,Powerade Fruit Punch Sports Drink,12 Bottles/12 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900005467,4
+49,301428,1.1115014E14,800000010617,0004900005643,Powerade Zero Fruit Punch Sports Drink,8 Bottles/20 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900005643,5
+49,301428,1.1115014E14,800000010617,0004900004714,Powerade Orange,8 Bottles/20 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900004714,6
+49,301428,1.1115014E14,800000010617,0004900004713,Powerade Grape,8 Bottles/20 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900004713,7
+49,301428,1.1115014E14,800000010617,0004900004712,Powerade Lemon Lime 8 Pack,8 Bottles/20 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900004712,8
+49,301428,1.1115014E14,800000010617,0004900004566,Powerade Fruit Punch,8 Bottles/20 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900004566,9
+49,301428,1.1115014E14,800000010617,0004900004565,Powerade Mountain Blast,8 Bottles/20 Fl Oz,https://www.kroger.com/product/images/010108249/medium/front/0004900004565,10
+50,305040,1.1115014E14,800000021825,0004155422019,Maybelline Lasting Drama Brown Gel Eyeliner,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155422019,1
+50,305040,1.1115014E14,800000021825,0004155422020,Maybelline Lasting Drama Charcoal Gel Eyeliner,1 Each,https://www.kroger.com/product/images/168131081/medium/front/0004155422020,2
+50,305040,1.1115014E14,800000021825,0004155422021,Maybelline Lasting Drama Eggplant Gel Eyeliner,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155422021,3
+50,305040,1.1115014E14,800000021825,0004155441546,Maybelline Master Kajal Navy Night Eye Liner,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155441546,4
+50,305040,1.1115014E14,800000021825,0004155422018,Maybelline Lasting Drama Blackest Black Gel Eyeliner,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155422018,5
+50,305040,1.1115014E14,800000021825,0004155442970,Maybelline Eye Studio Brow Drama Auburn Brow Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155442970,6
+50,305040,1.1115014E14,800000021825,0004155442969,Maybelline Brow Drama Deep Brown Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155442969,7
+50,305040,1.1115014E14,800000021825,0004155442968,Maybelline Brow Drama Soft Brown Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155442968,8
+50,305040,1.1115014E14,800000021825,0004155442967,Maybelline Brow Drama Blonde Mascara,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155442967,9
+50,305040,1.1115014E14,800000021825,0004155427594,Maybelline Eye Studio Master Pen Black Liquid Eye Liner,1 Count,https://www.kroger.com/product/images/168131081/medium/front/0004155427594,10

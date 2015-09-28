@@ -1,0 +1,101 @@
+rank,science,sci_rank
+1,Favorites,1
+2,Favorites,2
+3,Yellow Tag,1
+4,Favorites,3
+5,Coupons Adj,1
+6,Favorites,4
+7,Favorites,5
+8,Yellow Tag,2
+9,Weekly Ads,1
+10,Favorites,6
+11,Favorites,7
+12,Coupons Adj,2
+13,Yellow Tag,3
+14,Favorites,8
+15,Favorites,9
+16,Favorites,10
+17,Yellow Tag,4
+18,Recipes,1
+19,Weekly Ads,2
+20,Coupons Adj,3
+21,Favorites,11
+22,Favorites,12
+23,Yellow Tag,5
+24,Favorites,13
+25,Favorites,14
+26,Coupons Adj,4
+27,Favorites,15
+28,Yellow Tag,6
+29,Weekly Ads,3
+30,Favorites,16
+31,Favorites,17
+32,Yellow Tag,7
+33,Coupons Adj,5
+34,Favorites,18
+35,Favorites,19
+36,Favorites,20
+37,Yellow Tag,8
+38,Recipes,2
+39,Weekly Ads,4
+40,Favorites,21
+41,Coupons Adj,6
+42,Favorites,22
+43,Yellow Tag,9
+44,Favorites,23
+45,Favorites,24
+46,Coupons Adj,7
+47,Favorites,25
+48,Yellow Tag,10
+49,Weekly Ads,5
+50,Favorites,26
+51,Favorites,27
+52,Yellow Tag,11
+53,Favorites,28
+54,Coupons Adj,8
+55,Favorites,29
+56,Favorites,30
+57,Yellow Tag,12
+58,Recipes,3
+59,Weekly Ads,6
+60,Favorites,31
+61,Coupons Adj,9
+62,Favorites,32
+63,Yellow Tag,13
+64,Favorites,33
+65,Favorites,34
+66,Favorites,35
+67,Yellow Tag,14
+68,Coupons Adj,10
+69,Weekly Ads,7
+70,Favorites,36
+71,Favorites,37
+72,Yellow Tag,15
+73,Favorites,38
+74,Coupons Adj,11
+75,Favorites,39
+76,Favorites,40
+77,Yellow Tag,16
+78,Recipes,4
+79,Weekly Ads,8
+80,Favorites,41
+81,Favorites,42
+82,Coupons Adj,12
+83,Yellow Tag,17
+84,Favorites,43
+85,Favorites,44
+86,Favorites,45
+87,Yellow Tag,18
+88,Weekly Ads,9
+89,Coupons Adj,13
+90,Favorites,46
+91,Favorites,47
+92,Yellow Tag,19
+93,Favorites,48
+94,Favorites,49
+95,Coupons Adj,14
+96,Favorites,50
+97,Yellow Tag,20
+98,Recipes,5
+99,Weekly Ads,10
+100,Coupons Adj,15

@@ -2,18 +2,14 @@ w?
 .#*
 *#
 *~
-/build
 /code
 .classpath
 .project
 .settings
 .metadata
 .factorypath
-.gradle/
 .recommenders
 bin
-build
-build/
 lib/
 target
 .factorypath
@@ -35,7 +31,4 @@ overridedb.*
 *.jar
 .DS_Store
 .factorypath
-gradle/
-gradlew
-gradlew.bat
 

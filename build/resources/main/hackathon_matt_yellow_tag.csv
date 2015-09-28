@@ -1,0 +1,49 @@
+rank,DIB_CUST_ID,BASE_UPC_NUM,base_price,promo_price,Item_Description,image_url
+1,111150143861416,0001111050206,3.49,2.49,Kroger Reduced Fat Finely Shredded Sharp Cheddar Cheese,https://www.kroger.com/product/images/020655553/medium/front/0001111050206
+2,111150143861416,0007047043548,1.19,1,Yoplait Greek 100 Calorie Key Lime Yogurt,https://www.kroger.com/product/images/050624534/medium/front/0007047043548
+3,111150143861416,0001111001738,0.89,0.6666666667,Kroger Vitamin Enhanced Cherry Water Beverage,https://www.kroger.com/product/images/012040402/medium/front/0001111001738
+4,111150143861416,0001111081018,0.77,0.5,Kroger Petite Diced Tomato,https://www.kroger.com/product/images/010222088/medium/front/0001111081018
+5,111150143861416,0001111046068,1.69,1.25,Kroger Reduced Fat Sour Cream,https://www.kroger.com/product/images/050614533/medium/front/0001111046068
+6,111150143861416,0005000036815,3.49,2.5,Coffee-mate Sugar Free Pumpkin Spice Creamer,https://www.kroger.com/product/images/050794529/medium/front/0005000036815
+7,111150143861416,0001111086194,6.19,4.99,Kroger Home Sense Advanced Strength Double Roll,https://www.kroger.com/product/images/011129762/medium/front/0001111086194
+8,111150143861416,0007218063321,3.79,3.3333333333,Red Baron Thin & Crispy Five Cheese Pizza,https://www.kroger.com/product/images/450380023/medium/front/0007218063321
+9,111150143861416,0024966790000,1.49,1,Maryland Crab Cake - Single,https://www.kroger.com/product/images/694333316/medium/front/0024966790000
+10,111150143861416,0086262800000,10.99,9.99,Rhinegeist Truth India Pale Ale,https://www.kroger.com/product/images/112747412/medium/front/0086262800000
+11,111150143861416,0001111096875,3.29,2.99,Kroger Ground Turkey 85% Lean 15% Fat,https://www.kroger.com/product/images/465454500/medium/front/0001111096875
+12,111150143861416,0005100018002,1.6666666667,1,Campbell's Healthy Kids Chicken Noodle Soup,https://www.kroger.com/product/images/010063170/medium/front/0005100018002
+13,111150143861416,0001111081657,0.89,0.5,Kroger Tomato Sauce,https://www.kroger.com/product/images/010222090/medium/front/0001111081657
+14,111150143861416,0001111072567,0.69,0.5,Kroger Black Beans,https://www.kroger.com/product/images/010032050/medium/front/0001111072567
+15,111150143861416,0001111041700,2.79,2.59,Kroger 2% Reduced Fat Milk,https://www.kroger.com/product/images/050604530/medium/front/0001111041700
+16,111150143861416,0001111048902,2.29,1.25,Kroger Orange Juice With Calcium,https://www.kroger.com/product/images/050634539/medium/front/0001111048902
+17,111150143861416,0003700081163,4.39,4.17,Cascade Mediterranean Lavender Action Pac Dish Detergent,https://www.kroger.com/product/images/011037718/medium/front/0003700081163
+18,111150143861416,0007680853360,2.69,2.47,Barilla Plus Penne Pasta,https://www.kroger.com/product/images/010840470/medium/front/0007680853360
+19,111150143861416,0022582900000,7.99,6.99,Private Selection Oven Roasted Turkey Breast,https://www.kroger.com/product/images/154515150/medium/front/0022582900000
+20,111150143861416,0001111087411,1.79,1.5,Kroger Multigrain Waffles,https://www.kroger.com/product/images/450460032/medium/front/0001111087411
+21,111150143861416,0001111001447,1.59,1.25,Kroger Tomato & Basil Spaghetti Sauce,https://www.kroger.com/product/images/011000231/medium/front/0001111001447
+22,111150143861416,0001111010159,1.59,1.25,Kroger Traditional Gold Tortilla Rounds,https://www.kroger.com/product/images/600554290/medium/front/0001111010159
+23,111150143861416,0001820006991,13.99,11.99,Michelob Ultra,https://www.kroger.com/product/images/112707001/medium/front/0001820006991
+24,111150143861416,0003500076441,3.59,2.49,Colgate Kids Watermelon Toothpaste,https://www.kroger.com/product/images/031716014/medium/front/0003500076441
+25,111150143861416,0001111083278,2.59,2,Private Selection Peppermint Herbal Tea,https://www.kroger.com/product/images/010256200/medium/front/0001111083278
+26,111150143861416,0001111037629,5.99,3.99,Kroger Alkaline D Batteries,https://www.kroger.com/product/images/668084032/medium/front/0001111037629
+27,111150143861416,0001111080773,0.79,0.69,Kroger Mild Diced Tomatoes With Green Chilies,https://www.kroger.com/product/images/010222088/medium/front/0001111080773
+28,111150143861416,0001111000534,2.09,1.69,Kroger Round Top Harvest Grain Bread,https://www.kroger.com/product/images/750502412/medium/front/0001111000534
+29,111150143861416,0001111016004,2.29,1.5,Kroger Powdered Sugar Donut Holes,https://www.kroger.com/product/images/750525202/medium/front/0001111016004
+30,111150143861416,0001111081689,1.29,1,Kroger Home Sense Facial Tissues With Lotion,https://www.kroger.com/product/images/011139760/medium/front/0001111081689
+31,111150143861416,0001114110291,6.69,4.99,Eight O'Clock Hazelnut Ground Coffee,https://www.kroger.com/product/images/010245230/medium/front/0001114110291
+32,111150143861416,0001111078596,5.99,4.99,Kroger Home Sense Bath Tissue,https://www.kroger.com/product/images/011129762/medium/front/0001111078596
+33,111150143861416,0001291912211,7.39,5.99,Seattle's Best Decaf Ground Coffee,https://www.kroger.com/product/images/010245210/medium/front/0001291912211
+34,111150143861416,0004812127620,3.49,1.745,Thomas English Muffins Light Multi-Grain,https://www.kroger.com/product/images/750502407/medium/front/0004812127620
+35,111150143861416,0003338321000,2,1.6666666667,Raspberries - Red,https://www.kroger.com/product/images/196048039/medium/front/0003338321000
+36,111150143861416,0002412601668,2.19,2,Healthy Life 100% Whole Wheat Sandwich Buns,https://www.kroger.com/product/images/750502403/medium/front/0002412601668
+37,111150143861416,0001111084007,1.39,1.29,Kroger Sliced Jalapeno Peppers,https://www.kroger.com/product/images/010932051/medium/front/0001111084007
+38,111150143861416,0001111009953,1.25,1,Kroger Seasoned Herb Croutons,https://www.kroger.com/product/images/011343404/medium/front/0001111009953
+39,111150143861416,0003700041759,4.39,3.99,Cascade Regular Action Pacs,https://www.kroger.com/product/images/011037718/medium/front/0003700041759
+40,111150143861416,0004172914391,4.19,3.77,Skyline Original Chili,https://www.kroger.com/product/images/010049278/medium/front/0004172914391
+41,111150143861416,0003500078331,1.69,1,Colgate Kids Cavity Protection Bubble Fruit Toothpaste,https://www.kroger.com/product/images/031716014/medium/front/0003500078331
+42,111150143861416,0007124929215,6.99,5.99,L'Oreal Everpure Blonde Conditioner,https://www.kroger.com/product/images/031664102/medium/front/0007124929215
+43,111150143861416,0005100021925,3.79,2.99,Campbell's Organic Chicken Noodle Soup,https://www.kroger.com/product/images/010063173/medium/front/0005100021925
+44,111150143861416,0004126033743,6.69,6.49,Kroger Hardwood Lump Charcoal,https://www.kroger.com/product/images/962069200/medium/front/0004126033743
+45,111150143861416,0001111037626,4.99,3.99,Kroger Alkaline AA Batteries,https://www.kroger.com/product/images/668084032/medium/front/0001111037626
+46,111150143861416,0001111081816,6.29,5.29,Private Selection Dark Amber Maple Syrup,https://www.kroger.com/product/images/010142223/medium/front/0001111081816
+47,111150143861416,0003663203643,2.99,2.84,Danimals Rockin' Raspberry Smoothie Drink,https://www.kroger.com/product/images/050628301/medium/front/0003663203643
+48,111150143861416,0001800044589,2.69,2.5,Pillsbury Simply Chocolate Chip Cookies,https://www.kroger.com/product/images/020661449/medium/front/0001800044589

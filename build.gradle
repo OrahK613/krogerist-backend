@@ -1,9 +1,14 @@
+group 'krogerist'
+version '1.0-SNAPSHOT'
+
 buildscript {
     repositories {
         mavenCentral()
+
     }
     dependencies {
         classpath("org.springframework.boot:spring-boot-gradle-plugin:1.2.6.RELEASE")
+
     }
 }
 
@@ -11,6 +16,9 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'idea'
 apply plugin: 'spring-boot'
+
+//Path to the Main Web Class
+mainClassName = "krogerist.Application"
 
 jar {
     baseName = 'krogerist'
@@ -28,11 +36,29 @@ dependencies {
     compile("org.hsqldb:hsqldb")
     compile("org.springframework.boot:spring-boot-starter-batch")
     compile("org.springframework.boot:spring-boot-starter-web")
+    //compile("org.springframework.boot:spring-boot-starter-jetty")
+    //compile("org.springframework.boot:spring-boot-starter-actuater")
+    //compile("org.springframework.boot:spring-boot-starter-test")
     compile("org.codehaus.jackson:jackson-mapper-asl:1.9.12")
-    compile("org.quartz-scheduler:quartz:2.2.1")
+    //compile("org.quartz-scheduler:quartz:2.2.1")
     testCompile("junit:junit")
+    //testCompile("org.springframework.boot:spring-boot-starter-test")
 }
 
-task wrapper(type: Wrapper) {
-    gradleVersion = '2.3'
+task wrapper(type: Wrapper){
+    gradleVersion = "2.7"
+}
+
+
+task stage(type: Copy, dependsOn: [clean, build]) {
+    from jar.archivePath
+    into project.rootDir
+    rename {
+        'krogerist-0.1.0.jar'
+    }
+}
+stage.mustRunAfter(clean)
+
+clean << {
+    project.file('krogerist-0.1.0.jar').delete()
 }

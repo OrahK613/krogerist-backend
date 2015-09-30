@@ -1,6 +1,7 @@
 package krogerist.batch;
 
 import krogerist.domain.BusinessRule;
+import lombok.extern.java.Log;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.item.ItemProcessor;
@@ -12,9 +13,8 @@ public class BusinessRuleItemProcessor implements ItemProcessor<BusinessRule, Bu
     @Override
     public BusinessRule process(final BusinessRule businessRule) throws Exception {
 
-        BusinessRule transformedBusinessRule = new BusinessRule(businessRule, businessRule.getScience().toUpperCase());
 
-        //log.info("Converting (" + businessRule + ") into (" + transformedBusinessRule + ")");
+       // log.info("Converting (" + businessRule + ") into (" + businessRule + ")");
 
         return businessRule;
     }

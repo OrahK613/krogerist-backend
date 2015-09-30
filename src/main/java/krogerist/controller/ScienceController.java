@@ -6,6 +6,9 @@ import org.springframework.web.bind.annotation.*;
 import krogerist.domain.Science;
 import krogerist.service.ScienceService;
 
+import java.util.List;
+import java.util.Map;
+
 @RestController
 public class ScienceController {
 
@@ -18,7 +21,7 @@ public class ScienceController {
 
 
     @RequestMapping("/science")
-    public Science getScience() {
+    public List<Map<String, Object>> getScience() {
 
         return scienceService.getScience();
     }

@@ -13,9 +13,8 @@ public class YellowTagItemProcessor implements ItemProcessor<YellowTag, YellowTa
     @Override
     public YellowTag process(final YellowTag yellowTag) throws Exception {
 
-        YellowTag transformedYellowTag = new YellowTag(yellowTag, yellowTag.getItemDescription().toUpperCase());
 
-        //log.info("Converting (" + yellowTag + ") into (" + transformedYellowTag + ")");
+       // log.info("Converting (" + yellowTag + ") into (" + yellowTag + ")");
 
         return yellowTag;
     }

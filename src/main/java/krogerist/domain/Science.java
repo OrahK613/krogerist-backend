@@ -1,35 +1,36 @@
 package krogerist.domain;
 
+import lombok.AccessLevel;
+import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by dcpdev on 9/27/15.
  */
+@Data
 public class Science {
 
-    private List<YellowTag> yellowTags;
+    private List<Map<String, Object>> science;
+   
 
     public Science()
     {
 
     }
 
-    public Science(List<YellowTag> yellowTags) {
+    public Science(List<Map<String, Object>> science) {
 
-        this.yellowTags = yellowTags;
-    }
+        this.science = science;
 
-    public List<YellowTag> getYellowTags()
-    {
-        return yellowTags;
-    }
-
-    public void setYellowTags(List<YellowTag> yellowTags)
-    {
-        this.yellowTags = yellowTags;
     }
 
 
-
-
+    //public void setYellowTags(List<YellowTag> yellowTags) {
+    //    this.yellowTags = yellowTags;
+   // }
 }

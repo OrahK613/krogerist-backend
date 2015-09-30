@@ -34,17 +34,17 @@ public class JobCompletionNotificationListener extends JobExecutionListenerSuppo
         if(jobExecution.getStatus() == BatchStatus.COMPLETED) {
             log.info("!!! JOB FINISHED! Time to verify the results");
 
-//            List<YellowTag> rsYellowTag = jdbcTemplate.query("SELECT yellowTagId, rank, customerId, upc, basePrice, promoPrice, itemDescription, imageUrl  FROM YellowTag", new RowMapper<YellowTag>() {
-//                @Override
-//                public YellowTag mapRow(ResultSet rs, int row) throws SQLException {
-//                    return new YellowTag(rs.getInt(2), rs.getString(3), rs.getString(4), rs.getString(5), rs.getString(6), rs.getString(7), rs.getString(8));
-//                }
-//            });
-//
-//            for (YellowTag yellowTag : rsYellowTag) {
-//                log.info("Found <" + yellowTag + "> in the database.");
-//
-//            }
+            List<YellowTag> rsYellowTag = jdbcTemplate.query("SELECT yellowTagId, rank, customerId, upc, basePrice, promoPrice, itemDescription, imageUrl  FROM YellowTag", new RowMapper<YellowTag>() {
+                @Override
+                public YellowTag mapRow(ResultSet rs, int row) throws SQLException {
+                    return new YellowTag(rs.getInt(2), rs.getString(3), rs.getString(4), rs.getString(5), rs.getString(6), rs.getString(7), rs.getString(8));
+                }
+            });
+
+            for (YellowTag yellowTag : rsYellowTag) {
+                log.info("Found <" + yellowTag + "> in the database.");
+
+            }
 
 //            List<BusinessRule> rsBusinessRule = jdbcTemplate.query("SELECT businessRuleId, rank, science, scienceRank FROM BusinessRule", new RowMapper<BusinessRule>() {
 //                @Override

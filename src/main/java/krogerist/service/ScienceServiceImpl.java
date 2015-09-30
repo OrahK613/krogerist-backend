@@ -180,33 +180,43 @@ public class ScienceServiceImpl implements ScienceService {
                     science.add(favoriteMap);
                     break;
                 }
- //              case "Weekly Ads": {
-//                    "CategoryId": 36,
-//                        "CategoryName": "Produce",
-//                        "Description": "6 oz",
-//                        "EndDate": "2015-09-29",
-//                        "wcsProductId": 90426094,
-//                        "ImageFile": "https://f.wishabi.net/page_pdf_images/1785868/09324d94-55dd-11e5-8fa0-22000bb68123/x_large",
-//                        "PriceString": "3 for $5 With Card",
-//                        "StartDate": "2015-09-16",
-//                        "ThumbnailFile": "https://f.wishabi.net/page_pdf_images/1785868/09324d94-55dd-11e5-8fa0-22000bb68123/large",
-//                        "Title": "Driscoll's Raspberries",
-//                        "type": "weeklyad",
-//                        "rank": 1,
-//                        "id": "1-90426094"
+               case "Weekly Ads": {
+//                   "CategoryId": 9,
+//                           "CategoryName": "Beverages",
+//                           "Description": "Select Varieties, 12 pk, 12 fl oz Cans or 8 pk, 12 fl oz Bottles",
+//                           "EndDate": "2015-09-29",
+//                           "wcsProductId": 90423200,
+//                           "ImageFile": "https://f.wishabi.net/page_pdf_images/1785874/0d3f5cfa-55de-11e5-82d6-22000bb68123/x_large",
+//                           "PriceString": "When You Buy FINAL COST 3 for $10 With Card",
+//                           "StartDate": "2015-09-16",
+//                           "ThumbnailFile": "https://f.wishabi.net/page_pdf_images/1785874/0d3f5cfa-55de-11e5-82d6-22000bb68123/large",
+//                           "Title": "Coca-Cola, Pepsi or 7UP",
+//                           "type": "weeklyad",
+//                           "rank": 8,
+//                           "id": "8-90423200"
 
-//                    Map<String, Object> weeklyAdMap = new HashMap<>();
-//                    WeeklyAd weeklyAd = weeklyAds.get(0);
-//                    weeklyAdMap.put("dib_cust_id", weeklyAd.getCustomerId());
-//                    weeklyAdMap.put("item_no", weeklyAd.getItemNum());
-//                    weeklyAdMap.put("rank", weeklyAd.getRank());
-//                    weeklyAdMap.put("item_description", weeklyAd.getItemDescription());
-//                    weeklyAdMap.put("image_url", weeklyAd.getImageUrl());
-//                    weeklyAdMap.put("id", weeklyAd.getRank() + "-" + weeklyAd.getItemNum());
-//                    weeklyAdMap.put("type", "favorite");
-//                    favorites.remove(0);
-//                    science.add(weeklyAdMap);
-//                }
+                    Map<String, Object> weeklyAdMap = new HashMap<>();
+                    WeeklyAd weeklyAd = weeklyAds.get(0);
+                    weeklyAdMap.put("CategoryId", "42");
+                    weeklyAdMap.put("CategoryName", "Snacks");
+                    weeklyAdMap.put("Description","BLANK BLANK BLANK");
+                    weeklyAdMap.put("EndDate", weeklyAd.getEndDate());
+                    weeklyAdMap.put("wcsProductId", weeklyAd.getCircularItemId());
+                    weeklyAdMap.put("ImageFile", "We need images!");
+                    weeklyAdMap.put("PriceString", "It's all free(for real)");
+                    weeklyAdMap.put("StartDate", weeklyAd.getStartDate());
+                   weeklyAdMap.put("ThumbnailFile", "No thumbs :(");
+                   weeklyAdMap.put("Title", weeklyAd.getItemTitle());
+                    weeklyAdMap.put("id", weeklyAd.getRank() + "-" + weeklyAd.getItemNum());
+                    weeklyAdMap.put("type", "weeklyad");
+                   weeklyAdMap.put("rank", weeklyAd.getRank());
+                   if(weeklyAds.size() > 1)
+                   {
+                       weeklyAds.remove(0);
+                   }
+
+                    science.add(weeklyAdMap);
+                 }
                 case "Yellow Tag":
                 {
                     Map<String, Object> yellowTagMap = new HashMap<>();

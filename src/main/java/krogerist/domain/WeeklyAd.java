@@ -17,6 +17,7 @@ public class WeeklyAd {
     private String startDate;
     private String endDate;
     private String itemTitle;
+    private Integer itemNum;
 
     public WeeklyAd(){
 
@@ -29,6 +30,31 @@ public class WeeklyAd {
         this.startDate = startDate;
         this.endDate = endDate;
         this.itemTitle = itemTitle;
+    }
+
+    public String getEndDate() {
+        return endDate;
+    }
+
+
+    public String getCircularItemId() {
+        return circularItemId;
+    }
+
+    public String getStartDate() {
+        return startDate;
+    }
+
+    public String getItemTitle() {
+        return itemTitle;
+    }
+
+    public Integer getRank() {
+        return rank;
+    }
+
+    public Integer getItemNum() {
+        return itemNum;
     }
 //    @Override
 //    public String toString() {

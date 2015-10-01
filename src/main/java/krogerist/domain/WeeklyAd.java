@@ -17,18 +17,24 @@ public class WeeklyAd {
     private String startDate;
     private String endDate;
     private String itemTitle;
+    private String imageUrl;
+    private String priceString;
+    private String itemDescription;
 
     public WeeklyAd(){
 
     }
-
-    public WeeklyAd(String customerId, String circularItemId, Integer rank, String startDate, String endDate, String itemTitle){
+    //DIB_CUST_ID,CircularItemId,RANK,STARTDATE,ENDDATE,Item_Title,image_url,price_string,description
+    public WeeklyAd(String customerId, String circularItemId, Integer rank, String startDate, String endDate, String itemTitle, String imageUrl, String priceString, String itemDescription){
         this.customerId = customerId;
         this.circularItemId = circularItemId;
         this.rank = rank;
         this.startDate = startDate;
         this.endDate = endDate;
         this.itemTitle = itemTitle;
+        this.imageUrl = imageUrl;
+        this.priceString = priceString;
+        this.itemDescription = itemDescription;
     }
 
     public String getEndDate() {
@@ -50,6 +56,18 @@ public class WeeklyAd {
 
     public Integer getRank() {
         return rank;
+    }
+
+    public String getItemDescription() {
+        return itemDescription;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public String getPriceString() {
+        return priceString;
     }
 
 

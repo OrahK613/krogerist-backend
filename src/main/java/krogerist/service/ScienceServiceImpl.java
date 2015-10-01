@@ -93,10 +93,10 @@ public class ScienceServiceImpl implements ScienceService {
         // Get the list of WeeklyAd items
         List<WeeklyAd> weeklyAds = new ArrayList<>();
 
-        List<WeeklyAd> weeklyAdsResults = jdbcTemplate.query("SELECT weeklyAdId, customerId, circularItemId, rank, startDate, endDate, itemTitle FROM WeeklyAd", new RowMapper<WeeklyAd>() {
+        List<WeeklyAd> weeklyAdsResults = jdbcTemplate.query("SELECT weeklyAdId, customerId, circularItemId, rank, startDate, endDate, itemTitle,imageUrl,priceString,itemDescription FROM WeeklyAd", new RowMapper<WeeklyAd>() {
             @Override
             public WeeklyAd mapRow(ResultSet rs, int row) throws SQLException {
-                return new WeeklyAd(rs.getString(2), rs.getString(3), rs.getInt(4), rs.getString(5), rs.getString(6), rs.getString(7));
+                return new WeeklyAd(rs.getString(2), rs.getString(3), rs.getInt(4), rs.getString(5), rs.getString(6), rs.getString(7), rs.getString(8), rs.getString(9), rs.getString(10));
             }
         });
 
@@ -195,13 +195,18 @@ public class ScienceServiceImpl implements ScienceService {
 //                           "rank": 8,
 //                           "id": "8-90423200"
 
+//                   Title
+//                   ThumbnailFile & ImageFile
+//                   PriceString
+//                   Description (if available)
+
                     Map<String, Object> weeklyAdMap = new HashMap<>();
                     WeeklyAd weeklyAd = weeklyAds.get(0);
-                    weeklyAdMap.put("Description","BLANK BLANK BLANK");
+                    weeklyAdMap.put("Description",weeklyAd.getItemDescription());
                     weeklyAdMap.put("EndDate", weeklyAd.getEndDate());
                     weeklyAdMap.put("wcsProductId", weeklyAd.getCircularItemId());
-                    weeklyAdMap.put("ImageFile", "We need images!");
-                    weeklyAdMap.put("PriceString", "It's all free(for real)");
+                    weeklyAdMap.put("ImageFile", weeklyAd.getImageUrl());
+                    weeklyAdMap.put("PriceString", weeklyAd.getPriceString());
                     weeklyAdMap.put("StartDate", weeklyAd.getStartDate());
                    weeklyAdMap.put("ThumbnailFile", "No thumbs :(");
                    weeklyAdMap.put("Title", weeklyAd.getItemTitle());

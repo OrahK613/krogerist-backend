@@ -13,7 +13,7 @@ public class WeeklyAdItemProcessor implements ItemProcessor<WeeklyAd, WeeklyAd> 
     public WeeklyAd process(final WeeklyAd weeklyAd) throws Exception {
 
 
-       // log.info("Converting (" + weeklyAd + ") into (" + weeklyAd + ")");
+       log.info("Converting (" + weeklyAd + ") into (" + weeklyAd + ")");
 
         return weeklyAd;
     }

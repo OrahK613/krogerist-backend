@@ -56,7 +56,10 @@ CREATE TABLE WeeklyAd (
     rank INT,
     startDate VARCHAR(50),
     endDate VARCHAR(50),
-    itemTitle VARCHAR(250)
+    itemTitle VARCHAR(250),
+    imageUrl VARCHAR(250),
+    priceString VARCHAR(250),
+    itemDescription VARCHAR(250),
 );
 
 CREATE TABLE WeeklyAdItem (

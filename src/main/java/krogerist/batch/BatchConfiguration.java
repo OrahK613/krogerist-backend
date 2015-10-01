@@ -39,7 +39,7 @@ public class BatchConfiguration {
     private String sqlCoupon = "INSERT INTO Coupon (rank,couponOfferId,customerId,couponNum,score,baseUpc,itemDescription,details,couponImage,brand) VALUES (:rank,:couponOfferId,:customerId,:couponNum,:score,:baseUpc,:itemDescription,:details,:couponImage,:brand)";
     private String sqlCouponItem = "INSERT INTO CouponItem (rank,couponOfferId, customerId, couponNum,baseUpc,itemDescription,itemSize,imageUrl,prodRank) VALUES(:rank,:couponOfferId,:customerId,:couponNum,:baseUpc,:itemDescription,:itemSize,:imageUrl,:prodRank)";
     private String sqlFavorite = "INSERT INTO Favorite (customerId,itemNum,rank,itemDescription,imageUrl) VALUES (:customerId,:itemNum,:rank,:itemDescription,:imageUrl)";
-    private String sqlWeeklyAd = "INSERT INTO WeeklyAd (customerId,circularItemId,rank,startDate,endDate,itemTitle) VALUES (:customerId,:circularItemId,:rank,:startDate,:endDate,:itemTitle)";
+    private String sqlWeeklyAd = "INSERT INTO WeeklyAd (customerId,circularItemId,rank,startDate,endDate,itemTitle,imageUrl,priceString,itemDescription) VALUES (:customerId,:circularItemId,:rank,:startDate,:endDate,:itemTitle,:imageUrl,:priceString,:itemDescription)";
     private String sqlWeeklyAdItem = "INSERT INTO WeeklyAdItem (prodCode,circularItemId,adIdRank,itemDescription,imageUrl,itemRank) VALUES (:prodCode,:circularItemId,:adIdRank,:itemDescription,:imageUrl,:itemRank)";
     private String sqlYellowTag = "INSERT INTO YellowTag (rank, customerId, upc, basePrice, promoPrice, itemDescription, imageUrl) VALUES (:rank, :customerId, :upc, :basePrice, :promoPrice, :itemDescription, :imageUrl)";
 
@@ -111,6 +111,7 @@ public class BatchConfiguration {
         }});
         return reader;
     }
+
     @Bean
     public ItemReader<WeeklyAd> weeklyAdReader() {
         FlatFileItemReader<WeeklyAd> reader = new FlatFileItemReader<>();
@@ -118,7 +119,7 @@ public class BatchConfiguration {
         reader.setLinesToSkip(1);
         reader.setLineMapper(new DefaultLineMapper<WeeklyAd>() {{
             setLineTokenizer(new DelimitedLineTokenizer() {{
-                setNames(new String[] { "customerId","circularItemId","rank","startDate","endDate","itemTitle"});
+                setNames(new String[] { "customerId","circularItemId","rank","startDate","endDate","itemTitle","imageUrl","priceString","itemDescription"});
             }});
             setFieldSetMapper(new BeanWrapperFieldSetMapper<WeeklyAd>() {{
                 setTargetType(WeeklyAd.class);

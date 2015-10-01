@@ -76,6 +76,8 @@ public class Coupon {
         return rank;
     }
 
+
+
 //    @Override
 //    public String toString() {
 //        return "rank: " + rank + ", couponOfferId: " + couponOfferId + ", couponNum: " + couponNum

@@ -17,7 +17,6 @@ public class WeeklyAd {
     private String startDate;
     private String endDate;
     private String itemTitle;
-    private Integer itemNum;
 
     public WeeklyAd(){
 
@@ -53,9 +52,7 @@ public class WeeklyAd {
         return rank;
     }
 
-    public Integer getItemNum() {
-        return itemNum;
-    }
+
 //    @Override
 //    public String toString() {
 //        return "customerId: " + customerId + ", circularItemId: " + circularItemId + ", rank: " + rank

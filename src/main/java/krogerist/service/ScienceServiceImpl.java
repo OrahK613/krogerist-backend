@@ -93,7 +93,7 @@ public class ScienceServiceImpl implements ScienceService {
         // Get the list of WeeklyAd items
         List<WeeklyAd> weeklyAds = new ArrayList<>();
 
-        List<WeeklyAd> weeklyAdsResults = jdbcTemplate.query("SELECT weeklyAdId, customerId, circularItemId, rank, startDate, endDate, itemTitle  FROM WeeklyAd", new RowMapper<WeeklyAd>() {
+        List<WeeklyAd> weeklyAdsResults = jdbcTemplate.query("SELECT weeklyAdId, customerId, circularItemId, rank, startDate, endDate, itemTitle FROM WeeklyAd", new RowMapper<WeeklyAd>() {
             @Override
             public WeeklyAd mapRow(ResultSet rs, int row) throws SQLException {
                 return new WeeklyAd(rs.getString(2), rs.getString(3), rs.getInt(4), rs.getString(5), rs.getString(6), rs.getString(7));
@@ -155,7 +155,7 @@ public class ScienceServiceImpl implements ScienceService {
                     couponMap.put("brand", coupon.getBrand());
                     couponMap.put("id", coupon.getRank() + "-" + coupon.getCouponOfferId());
                     couponMap.put("type", "coupon");
-                    couponMap.put("image_url", "Need to get this image");
+                    couponMap.put("image_url", coupon.getCouponImage());
                     if(coupons.size() > 1)
                     {
                         coupons.remove(0);
@@ -197,8 +197,6 @@ public class ScienceServiceImpl implements ScienceService {
 
                     Map<String, Object> weeklyAdMap = new HashMap<>();
                     WeeklyAd weeklyAd = weeklyAds.get(0);
-                    weeklyAdMap.put("CategoryId", "42");
-                    weeklyAdMap.put("CategoryName", "Snacks");
                     weeklyAdMap.put("Description","BLANK BLANK BLANK");
                     weeklyAdMap.put("EndDate", weeklyAd.getEndDate());
                     weeklyAdMap.put("wcsProductId", weeklyAd.getCircularItemId());
@@ -207,7 +205,7 @@ public class ScienceServiceImpl implements ScienceService {
                     weeklyAdMap.put("StartDate", weeklyAd.getStartDate());
                    weeklyAdMap.put("ThumbnailFile", "No thumbs :(");
                    weeklyAdMap.put("Title", weeklyAd.getItemTitle());
-                    weeklyAdMap.put("id", weeklyAd.getRank() + "-" + weeklyAd.getItemNum());
+                    weeklyAdMap.put("id", weeklyAd.getRank() + "-" + weeklyAd.getCircularItemId());
                     weeklyAdMap.put("type", "weeklyad");
                    weeklyAdMap.put("rank", weeklyAd.getRank());
                    if(weeklyAds.size() > 1)
@@ -245,12 +243,12 @@ public class ScienceServiceImpl implements ScienceService {
                     science.add(yellowTagMap);
                     break;
                 }
-                default:
-                {
-                    Map<String, Object> emptyMap = new HashMap<>();
-                    science.add(emptyMap);
-                    break;
-                }
+//                default:
+//                {
+//                    Map<String, Object> emptyMap = new HashMap<>();
+//                    science.add(emptyMap);
+//                    break;
+//                }
 
 
             }
